@@ -18,7 +18,9 @@
         },
         "title": {
           "type": "title",
-          "settings": {}
+          "settings": {
+            "heading_tag": "h2"
+          }
         },
         "badges": {
           "type": "badges",
@@ -26,11 +28,15 @@
         },
         "price": {
           "type": "price",
-          "settings": {}
+          "settings": {
+            "show_taxes_notice": false
+          }
         },
         "rating": {
           "type": "rating",
-          "settings": {}
+          "settings": {
+            "show_empty": false
+          }
         },
         "payment_terms": {
           "type": "payment_terms",
@@ -42,11 +48,22 @@
         },
         "description": {
           "type": "description",
-          "settings": {}
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "collapse_content": false
+          }
         },
         "variant_picker": {
           "type": "variant_picker",
-          "settings": {}
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
         },
         "quantity_selector": {
           "type": "quantity_selector",
@@ -54,11 +71,14 @@
         },
         "buy_buttons": {
           "type": "buy_buttons",
-          "settings": {}
-        },
-        "pickup_availability": {
-          "type": "pickup_availability",
-          "settings": {}
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
         }
       },
       "block_order": [
@@ -74,10 +94,355 @@
         "quantity_selector",
         "buy_buttons"
       ],
-      "settings": {}
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "image_with_text_overlay_fNcdWh": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/mumulleinBanner_1.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "logo_list_ihM9Dq": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_b4CAg3": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/logomenshealth_1.png",
+            "logo_width": 150,
+            "link": ""
+          }
+        },
+        "logo_KtiRXP": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Healthlinelogo_1_1.png",
+            "logo_width": 150,
+            "link": ""
+          }
+        },
+        "logo_VFRyzx": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/NaturallygoodhealthLogo_1_1.png",
+            "logo_width": 150,
+            "link": ""
+          }
+        },
+        "logo_8RhiNV": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/logowomenshealth_1.png",
+            "logo_width": 150,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_b4CAg3",
+        "logo_KtiRXP",
+        "logo_VFRyzx",
+        "logo_8RhiNV"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "As seen on",
+        "content": "",
+        "text_alignment": "start",
+        "items_per_row": 4,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "rich_text_Fc76gh": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_EEtEFw": {
+          "type": "heading",
+          "settings": {
+            "text": "Why Choose IonicBlitz",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_EEtEFw"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "text_with_icons_9MVCW3": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_XxWtiE": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/breathing_1.png",
+            "mobile_icon_width": 72,
+            "icon_width": 72,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Supports Clear, Easy Breathing",
+            "content": "<p>Clears airways and relieves congestion, promoting better breathing.</p>"
+          }
+        },
+        "item_PahjmC": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/blood_1.png",
+            "mobile_icon_width": 72,
+            "icon_width": 72,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Blood Circulation",
+            "content": "<p>Improves blood flow and overall cardiovascular health.</p>"
+          }
+        },
+        "item_6bwqCX": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/anti-aging_1.png",
+            "mobile_icon_width": 72,
+            "icon_width": 72,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Naturally Soothing and Anti-Inflammatory",
+            "content": "<p>Helps reduce inflammation, easing chest tightness, congestion, and more.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_XxWtiE",
+        "item_PahjmC",
+        "item_6bwqCX"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "text_with_icons_6qWg93": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_bAWHpG": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/stamina_1_1.png",
+            "mobile_icon_width": 72,
+            "icon_width": 72,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Energy & Vitality",
+            "content": "<p>Wake up energized, sharp, and balanced, fuel your body with nature’s best! </p>"
+          }
+        },
+        "item_cxLgGB": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/herollogo_1_2.png",
+            "mobile_icon_width": 72,
+            "icon_width": 72,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Boosts Lung Health and Detoxifies",
+            "content": "<p>Boosts immunity with powerful natural antioxidants.</p>"
+          }
+        },
+        "item_QiKAWJ": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/clarity_1_1.png",
+            "mobile_icon_width": 72,
+            "icon_width": 72,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Sharper Focus and Mental Clarity",
+            "content": "<p>Keeps you sharp, focused, and ready for anything.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_bAWHpG",
+        "item_cxLgGB",
+        "item_QiKAWJ"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_NBjYDd": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_AFkGPF": {
+          "type": "heading",
+          "settings": {
+            "text": "Transform Your Lungs",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_AFkGPF"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "video_AnnH7q": {
+      "type": "video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "multi_column_4XVVyk": {
+      "type": "multi-column",
+      "blocks": {
+        "item_CmRVeA": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_gBCEP3": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_8X34Nj": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_CmRVeA",
+        "item_gBCEP3",
+        "item_8X34Nj"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "Our customers say it best!",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "image_with_text_overlay_fNcdWh",
+    "logo_list_ihM9Dq",
+    "rich_text_Fc76gh",
+    "text_with_icons_9MVCW3",
+    "text_with_icons_6qWg93",
+    "rich_text_NBjYDd",
+    "video_AnnH7q",
+    "multi_column_4XVVyk"
   ]
 }
