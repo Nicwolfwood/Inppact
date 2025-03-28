@@ -185,29 +185,37 @@
         "item_pyDdkn": {
           "type": "item",
           "settings": {
-            "title": "Is it comfortable for all-day wear?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "What are the main benefits of Organic Sea Moss and Shilajit?",
+            "content": "<p>Strengthen immunity, balance thyroid, glow from within, boost energy, relieve stress, and support a healthy weight, feel your best every day!</p>"
           }
         },
         "item_GfARGt": {
           "type": "item",
           "settings": {
-            "title": "Can I wear it under tight clothes?",
-            "content": "<p>Absolutely! The seamless design stays invisible under any outfit.</p>"
+            "title": "What Is Mullein & Chlorophyll Extract?",
+            "content": "<p>This powerful liquid supplement is formulated to support clear lungs and easy breathing naturally.</p>"
           }
         },
         "item_tAWMpL": {
           "type": "item",
           "settings": {
-            "title": "Do you offer free shipping?",
-            "content": "<p>Yes! We offer <strong>free shipping on all orders!</strong></p>"
+            "title": "What does the blend feel like?",
+            "content": "<p>Feel energized, clear-headed, and balanced, like a natural reset for your body, leaving you refreshed and ready to conquer the day! 🚀</p>"
+          }
+        },
+        "item_kjEDPn": {
+          "type": "item",
+          "settings": {
+            "title": "Are there any side effects?",
+            "content": "<p>Our formula is 100% natural and safe, with no known side effects. Designed to support your body’s natural functions for better health and vitality! </p>"
           }
         }
       },
       "block_order": [
         "item_pyDdkn",
         "item_GfARGt",
-        "item_tAWMpL"
+        "item_tAWMpL",
+        "item_kjEDPn"
       ],
       "settings": {
         "full_width": true,
