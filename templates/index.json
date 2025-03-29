@@ -42,34 +42,37 @@
         "testimonial_nFGwz7": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/aWL7E7Wu_1_1.jpg",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Katrina P.",
-            "title": "Confidence in Every Curve!",
-            "content": "<p>I was skeptical at first, but wow this bodysuit completely changed how I feel in my clothes. It hugs my curves in all the right places without feeling restrictive. The fabric is soft, breathable, and stretches perfectly to fit my shape. I love how seamless it looks under dresses, and the adjustable straps make it even better. I’ve worn it all day, and it stays in place without rolling down. This is the first shapewear I’ve actually looked forward to wearing. Highly recommend!</p>"
+            "author": "Michael O.",
+            "title": "Perfect balance of energy",
+            "content": "<p>I was skeptical at first, but IonicBlitz has completely exceeded my expectations. It gives me the perfect energy boost for my workday and still keeps me going for evening activities. What I love most is how balanced it feels there’s no over-the-top stimulation, just a smooth and reliable boost all day long.</p>"
           }
         },
         "testimonial_iYHtaF": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/1000011469_1_1.jpg",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Mary U.",
-            "title": "Smooth, Comfortable, and So Flattering",
-            "content": "<p>I’ve tried so many shapewear brands, but this one truly stands out. The compression is just right not too tight but firm enough to smooth everything out. I love that it enhances my natural shape instead of squeezing me in an uncomfortable way. The material is high quality, and I appreciate the open gusset for convenience. It’s also surprisingly easy to get into! I’ve worn this under a fitted dress, and it made such a difference. Definitely worth every penny!</p>"
+            "author": "Emilie F.",
+            "title": "Consistent mental focus",
+            "content": "<p>The IonicBlend has been a lifesaver for my productivity. I’ve always struggled with staying focused during long study sessions, but now my mind feels sharp and clear. I love that it gives me steady energy without any crashes, and it’s become an essential part of my daily routine.</p>"
           }
         },
         "testimonial_TR4LPX": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/1000011470_1_1.jpg",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Alicia A.",
-            "title": "The Best Shapewear I’ve Ever Owned!",
-            "content": "<p>From the moment I put this on, I knew it was a game-changer. It sculpts my waist, smooths my tummy, and lifts my bust without feeling like I’m suffocating. The fit is incredible it molds to my body but still lets me move comfortably. I also love that I can wear it on its own with jeans or under dresses for a flawless silhouette. No rolling, no pinching, just pure confidence. If you’re on the fence, trust me—this is the one!</p>"
+            "author": "Kendra W.",
+            "title": "A Natural Boost for My Lungs!",
+            "content": "<p>As someone with mild asthma, I was looking for something natural to help with my breathing. Lung Mullein has been amazing! It’s soothing and effective without any harsh chemicals. My airflow feels much smoother, and I’m breathing easier throughout the day. Highly recommend for anyone looking for a natural lung support!</p>"
           }
         }
       },
