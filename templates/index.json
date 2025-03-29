@@ -15,7 +15,7 @@
         "heading_n4NExb": {
           "type": "heading",
           "settings": {
-            "text": "We empower your curves so you can take on the world!",
+            "text": "Vitality Made Easy",
             "heading_tag": "h3"
           }
         }
@@ -28,11 +28,12 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/shilajitbannerhome1_1.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#f4c2c2",
-        "overlay_opacity": 5
+        "overlay_opacity": 0
       }
     },
     "testimonials_mTWwYr": {
@@ -103,7 +104,7 @@
         "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 6,
-        "background": "#f4c2c2",
+        "background": "#a7c957",
         "background_gradient": "",
         "text_color": "",
         "text_gradient": ""
