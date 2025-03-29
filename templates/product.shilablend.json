@@ -218,42 +218,42 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/breathing_1.png",
+            "custom_icon": "shopify://shop_images/herollogo_1.png",
             "mobile_icon_width": 72,
             "icon_width": 72,
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Supports Clear, Easy Breathing",
-            "content": "<p>Clears airways and relieves congestion, promoting better breathing.</p>"
+            "title": "Elevate Athletic Performance",
+            "content": "<p>Boost endurance, strength, and recovery, perfect for any workout!</p>"
           }
         },
         "item_PahjmC": {
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/blood_1.png",
+            "custom_icon": "shopify://shop_images/moonllogo_1.png",
             "mobile_icon_width": 72,
             "icon_width": 72,
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Blood Circulation",
-            "content": "<p>Improves blood flow and overall cardiovascular health.</p>"
+            "title": "Restful Sleep for Refreshing Mornings",
+            "content": "<p>Sleep faster, rest deeper, and wake up refreshed!</p>"
           }
         },
         "item_6bwqCX": {
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/anti-aging_1.png",
+            "custom_icon": "shopify://shop_images/herollogo_1_2.png",
             "mobile_icon_width": 72,
             "icon_width": 72,
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Naturally Soothing and Anti-Inflammatory",
-            "content": "<p>Helps reduce inflammation, easing chest tightness, congestion, and more.</p>"
+            "title": "Boost Your Health & Strengthen Immunity",
+            "content": "<p>Boost immunity and vitality, stay healthy every day!</p>"
           }
         }
       },
@@ -295,14 +295,14 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/herollogo_1_2.png",
+            "custom_icon": "shopify://shop_images/power_1_1.png",
             "mobile_icon_width": 72,
             "icon_width": 72,
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Boosts Lung Health and Detoxifies",
-            "content": "<p>Boosts immunity with powerful natural antioxidants.</p>"
+            "title": "Enhanced Physical and Mental Stamina",
+            "content": "<p>Strengthen body and mind, stay resilient and perform your best!</p>"
           }
         },
         "item_QiKAWJ": {
@@ -369,7 +369,7 @@
         "allow_transparent_header": false,
         "autoplay": true,
         "video_size": "auto",
-        "video": "shopify://files/videos/seamossblendvid.mp4",
+        "video": "shopify://files/videos/seamossblendvid (1).mp4",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
@@ -382,11 +382,11 @@
         "item_CmRVeA": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/REVIEWMULLEIN4_1.png",
+            "image": "shopify://shop_images/review1_1.png",
             "column_size": "3",
-            "title": "Peter S.",
+            "title": "Mario F.",
             "heading_tag": "h4",
-            "content": "<p>I’m a heavy smoker and work around concrete dust daily, so my lungs take a beating. It took about a month, but the results have been incredible. I’ve been coughing up all the built-up mucus, and now I can finally breathe easier. No more tight chest just clearer lungs and deeper breaths. This stuff really works!</p>",
+            "content": "<p>I’ve been using it for a few weeks now, and the results are incredible. My workouts are stronger, my recovery is faster, and my energy levels are through the roof. On top of that, my partner has definitely noticed the difference too. Can’t recommend this enough!</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -397,9 +397,9 @@
           "settings": {
             "image": "shopify://shop_images/REVIEWMULLEIN5_1.png",
             "column_size": "3",
-            "title": "Jimmy G.",
+            "title": "Tommy T.",
             "heading_tag": "h4",
-            "content": "<p>Mornings used to be rough constant coughing and mucus from smoking. But ever since I started using Mullein + Chlorophyll, that’s gone. No more morning congestion, no more sinus issues just clear breathing. It feels amazing, and I’m never going back!</p>",
+            "content": "<p>I'm not usually one to write reviews, but this product? Absolutely life-changing! Within just two weeks, I’ve noticed better skin, a huge boost in energy, and let’s just say it’s been a game-changer in the bedroom too. I’m blown away! If I could rate this higher than 5 stars, I wouldn’t hesitate. This stuff is the real deal!</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -408,11 +408,11 @@
         "item_8X34Nj": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/REVIEWMULLEIN6_1.png",
+            "image": "shopify://shop_images/review3_1.png",
             "column_size": "3",
-            "title": "Janice K.",
+            "title": "Kate C.",
             "heading_tag": "h4",
-            "content": "<p>I have severe asthma, and my husband has COPD. We tried Mullein + Chlorophyll, and within just a few days, our breathing felt so much easier! Less chest congestion, thinner mucus, and even better sleep. This has been a game-changer for our health!</p>",
+            "content": "<p>I’ve been on this product for a few weeks, and wow the difference is unbelievable! My energy levels are through the roof, and I feel so much more productive and focused every day. It’s like I’ve unlocked a whole new level of motivation and balance. Absolutely loving it!</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -423,9 +423,9 @@
           "settings": {
             "image": "shopify://shop_images/REVIEWMULLEIN_1.png",
             "column_size": "3",
-            "title": "Steve G.",
+            "title": "Justin H.",
             "heading_tag": "h4",
-            "content": "<p>I've been using this for 10 days, and the results are wild. As a longtime smoker, my lungs were a mess. By day 5, I started coughing up stuff I didn’t even know was there, gross but satisfying. Now, my breathing is clearer, my morning congestion is almost gone, and my endurance is improving. Definitely sticking with this!</p>",
+            "content": "<p>I’ve been using IonicBlitz for a few weeks now, and the difference is incredible. My energy levels during workouts have gone through the roof, and I’m pushing myself harder than ever. The mental clarity is a huge plus too I can focus on my sets and push through with more endurance. It’s made my fitness routine feel effortless, and I can feel the results!</p><h3></h3>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -434,11 +434,11 @@
         "item_bN4NRV": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/REVIEWMULLEIN2_1.png",
+            "image": "shopify://shop_images/review5_1.png",
             "column_size": "3",
-            "title": "Tracy M.",
+            "title": "Lena R.",
             "heading_tag": "h4",
-            "content": "<p>I had no idea how much I needed this until I started using it. My constant sinus issues and mucus? Almost gone. It feels like my body is cleansing itself from the inside out. More energy, clearer skin, I haven’t felt this fresh in years!</p><h3></h3>",
+            "content": "<p>IonicBlitz has completely transformed my workdays. I used to hit an afternoon slump every day, but since using this product, I’ve had consistent energy throughout the day. My focus has sharpened, and I’m able to power through tasks with much more efficiency. It’s been a game changer for both my work and personal life!</p><h3></h3>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -447,11 +447,11 @@
         "item_yYQcjq": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/REVIEWMULLEIN3_1.png",
+            "image": "shopify://shop_images/review6_1.png",
             "column_size": "3",
-            "title": "Sarah K.",
+            "title": "Rachel M.",
             "heading_tag": "h4",
-            "content": "<p>I won’t lie the first taste caught me off guard with its ‘earthy’ vibe. But after a few days, my sinuses cleared, my chest felt lighter, and those rough morning coughs? Gone. Now, I’m breathing deeper and feeling better every day. No way I’m stopping now!</p>",
+            "content": "<p>IonicBlitz has helped me say goodbye to the dreaded mid-day crash. I used to feel drained and sluggish in the afternoon, but now I have consistent energy from morning to night. It’s also helped my mental clarity tasks that once seemed overwhelming are now easy to manage. I can’t imagine going back to how I felt before!</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -527,7 +527,7 @@
       ],
       "settings": {
         "full_width": true,
-        "product": "mullein-leaf-extract",
+        "product": "shilajit-blend",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_bottom",
         "mobile_media_size": "expanded",
@@ -550,7 +550,7 @@
           "type": "tab",
           "settings": {
             "title": "Specifications",
-            "content": "<p><strong>Breathe Easier Naturally – Just 2 Drops a Day!</strong> 🌿💨</p><p>✔ <strong>Clears Airways & Removes Mucus</strong> – Potent Mullein extract supports healthy lungs.<br/><br/>✔ <strong>Fast & Easy</strong> – Just 2 drops in tea or water, no hassle!<br/><br/>✔ <strong>Affordable & Effective</strong> – A natural alternative to costly treatments.<br/><br/>✔ <strong>Trusted by Experts</strong> – Backed by health professionals.</p><p>No harsh meds, no painful treatments—just pure, natural relief!</p>",
+            "content": "<p>🌿 <strong>Pure & Powerful</strong> – Our Organic Sea Moss & Shilajit blend delivers 24 essential nutrients in just 2 potent tablets.</p><p>⚡ <strong>Boost Energy & Vitality</strong> – Feel more energized, reduce stress, and support natural weight management.</p><p>🛡️ <strong>Strengthen Immunity & Thyroid Health</strong> – Essential support for a balanced, healthy body.</p><p>✨ <strong>Glow from Within</strong> – Promotes radiant skin and overall well-being.</p><p>Take your wellness to the next level—naturally!</p>",
             "page": ""
           }
         },
@@ -596,36 +596,29 @@
         "item_nRhdmJ": {
           "type": "item",
           "settings": {
-            "title": "What Is Mullein & Chlorophyll Extract?",
-            "content": "<p>This powerful liquid supplement is formulated to support clear lungs and easy breathing naturally.</p>"
+            "title": "What does it feel like ?",
+            "content": "<p><strong>🔥 More Energy,<br/><br/>🧠 More Clarity,<br/><br/>💪 More Strength,<br/><br/>💨 More Stamina,<br/><br/>⚡ More Power!</strong></p><p>Wake up <strong>energized, sharp, and balanced</strong>, fuel your body with <strong>nature’s best ready to conquer the day</strong>! 🚀</p><h5></h5>"
           }
         },
         "item_bkWKqe": {
           "type": "item",
           "settings": {
-            "title": "Can Mullein Leaf Extract help my respiratory condition?",
-            "content": "<p>Mullein Leaf Extract is completely safe, with no known side effects. It helps your body naturally clear your airways without steroids, chemicals, or toxins.</p>"
+            "title": "When will I see results?",
+            "content": "<p><strong>You can start feeling the benefits of IonicBlitz supplements in as little as few days</strong>! For best results, make our supplements a part of your daily routine and enjoy the journey to a healthier, more vibrant you!</p>"
           }
         },
         "item_YdF3md": {
           "type": "item",
           "settings": {
-            "title": "What Are The Benefits Of Mullein?",
-            "content": "<p>Mullein has been used for years to support lung and respiratory health.</p>"
+            "title": "Is it safe?",
+            "content": "<p>Our formula is <strong>100% natural and safe</strong>, <strong>with no known side effects</strong>. Designed to <strong>support</strong> your body’s<strong> natural functions</strong> for <strong>better health and vitality</strong>! 🌿</p>"
           }
         },
         "item_zb3UVA": {
           "type": "item",
           "settings": {
-            "title": "Is this product safe for daily use?",
-            "content": "<p>Yes, this product is<strong> safe</strong> for daily use. Made from <strong>100% natural</strong> ingredients, it’s <strong>gentle </strong>on your body while delivering effective <strong>health benefits</strong>.</p>"
-          }
-        },
-        "item_7CpGbK": {
-          "type": "item",
-          "settings": {
-            "title": "How long should I use it for?",
-            "content": "<p>Start with 2 drops daily and continue as needed. The longer you use it, the more support you'll give your lungs.</p>"
+            "title": "How do I use it?",
+            "content": "<p>For optimal results, take 2 capsules daily.</p>"
           }
         }
       },
@@ -633,8 +626,7 @@
         "item_nRhdmJ",
         "item_bkWKqe",
         "item_YdF3md",
-        "item_zb3UVA",
-        "item_7CpGbK"
+        "item_zb3UVA"
       ],
       "settings": {
         "full_width": true,
