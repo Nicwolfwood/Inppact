@@ -369,7 +369,7 @@
         "allow_transparent_header": false,
         "autoplay": true,
         "video_size": "auto",
-        "video": "shopify://files/videos/Vidmobile (1).mp4",
+        "video": "shopify://files/videos/Vidmobile (2).mp4",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
@@ -590,43 +590,6 @@
         "heading_gradient": ""
       }
     },
-    "rich_text_pR7r9j": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_f3acGr": {
-          "type": "heading",
-          "settings": {
-            "text": "Our customers love it!",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_f3acGr"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "custom_liquid_YzgkRi": {
-      "type": "custom-liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": true,
-        "remove_horizontal_spacing": true,
-        "liquid": "<style>\n.video-carousel-container {\n  width: 100%;\n  overflow: hidden;\n  position: relative;\n  margin-top: 0px; \n  margin-bottom: 0px; \n}\n\n.video-carousel-track {\n  display: flex;\n  gap: 15px; \n  overflow-x: scroll; \n  scroll-snap-type: x mandatory; \n  padding: 10px;\n  -webkit-overflow-scrolling: touch; \n}\n\n.video-carousel-track::-webkit-scrollbar {\n  display: none; \n}\n\n.video-carousel-item {\n  flex-shrink: 0;\n  width: 200px; \n  height: 350px; \n  border-radius: 10px; \n  overflow: hidden;\n  scroll-snap-align: start; /* Alignement précis pour chaque vidéo */\n  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\n}\n\n.video-carousel-item video {\n  width: 100%;\n  height: 100%;\n  object-fit: cover; \n  pointer-events: none;\n}\n</style>\n\n<div class=\"video-carousel-container\">\n  <div class=\"video-carousel-track\">\n    <!-- Vidéos -->\n<div class=\"video-carousel-item\">\n      <video src=\"https://cdn.shopify.com/videos/c/o/v/38e0aae2df654d8e835dc1a705d9a5f7.mp4\" muted </video>\n    </div>\n    <div class=\"video-carousel-item\">\n \n      <video src=\"https://cdn.shopify.com/videos/c/o/v/3cdc06900fd54a85aed91778bc5b8312.mp4\" muted ></video>\n    </div>\n    <div class=\"video-carousel-item\">\n      <video src=\"https://cdn.shopify.com/videos/c/o/v/2a5bd3777bc749d68b762e09abb54aec.mp4\" muted ></video>\n\n    </div>\n    \n\n  </div>\n</div>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "faq_yGU9m9": {
       "type": "faq",
       "blocks": {
@@ -736,8 +699,6 @@
     "multi_column_4XVVyk",
     "featured_product_gkQ76U",
     "tabs_zei6nF",
-    "rich_text_pR7r9j",
-    "custom_liquid_YzgkRi",
     "faq_yGU9m9",
     "1743239945613943f1"
   ]
