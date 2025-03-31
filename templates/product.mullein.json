@@ -590,6 +590,67 @@
         "heading_gradient": ""
       }
     },
+    "multi_column_68aRTA": {
+      "type": "multi-column",
+      "blocks": {
+        "item_FbekCG": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/SnapTik_App_7487973169215737090-HD.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_nH89kH": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/SnapTik_App_7487972954865749270-HD.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_4ddhJ3": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/MulleinTEST3.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_FbekCG",
+        "item_nH89kH",
+        "item_4ddhJ3"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "Our customers love it!",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "faq_yGU9m9": {
       "type": "faq",
       "blocks": {
@@ -699,6 +760,7 @@
     "multi_column_4XVVyk",
     "featured_product_gkQ76U",
     "tabs_zei6nF",
+    "multi_column_68aRTA",
     "faq_yGU9m9",
     "1743239945613943f1"
   ]
