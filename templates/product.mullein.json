@@ -631,12 +631,26 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_Wqqgri": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/SnapTik_App_7487973407628250390-HD.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
         "item_FbekCG",
         "item_nH89kH",
-        "item_4ddhJ3"
+        "item_4ddhJ3",
+        "item_Wqqgri"
       ],
       "settings": {
         "full_width": true,
