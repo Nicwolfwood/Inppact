@@ -98,21 +98,6 @@
         "testimonial_card_text_color": ""
       }
     },
-    "scrolling-text": {
-      "type": "scrolling-text",
-      "settings": {
-        "full_width": true,
-        "text": "🌸 Spring Refresh! Up to 50% OFF – While Stocks Last!",
-        "text_size": "large",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 6,
-        "background": "#a7c957",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": ""
-      }
-    },
     "media_with_text_GgWLkr": {
       "type": "media-with-text",
       "blocks": {
@@ -148,13 +133,27 @@
         "spacing": "small"
       }
     },
+    "scrolling-text": {
+      "type": "scrolling-text",
+      "settings": {
+        "full_width": true,
+        "text": "🌸 Spring Refresh! Up to 50% OFF – While Stocks Last!",
+        "text_size": "large",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 6,
+        "background": "#a7c957",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
     "media_with_text_nWdXTr": {
       "type": "media-with-text",
       "blocks": {
         "image_dBqNKh": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/mullein3.png",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center-start text-start",
@@ -247,8 +246,8 @@
   "order": [
     "image_with_text_overlay_aMReqK",
     "testimonials_mTWwYr",
-    "scrolling-text",
     "media_with_text_GgWLkr",
+    "scrolling-text",
     "media_with_text_nWdXTr",
     "faq_xtiDpM"
   ]
