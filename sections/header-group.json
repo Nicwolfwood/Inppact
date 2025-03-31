@@ -34,12 +34,28 @@
             "text": "Free shipping worldwide",
             "url": ""
           }
+        },
+        "message_MiLbtm": {
+          "type": "message",
+          "settings": {
+            "text": "2 + 1 FREE 🎁",
+            "url": ""
+          }
+        },
+        "message_yLm7XN": {
+          "type": "message",
+          "settings": {
+            "text": "3 + 2 FREE 🎁",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message_UbfVgy",
         "message",
-        "message_mXEV8D"
+        "message_mXEV8D",
+        "message_MiLbtm",
+        "message_yLm7XN"
       ],
       "settings": {
         "enable_sticky": false,
