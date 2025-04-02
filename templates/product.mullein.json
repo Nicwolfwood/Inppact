@@ -135,7 +135,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/logomenshealth_1.png",
-            "logo_width": 150,
+            "logo_width": 100,
             "link": ""
           }
         },
@@ -143,7 +143,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/Healthlinelogo_1_1.png",
-            "logo_width": 150,
+            "logo_width": 100,
             "link": ""
           }
         },
@@ -151,7 +151,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/NaturallygoodhealthLogo_1_1.png",
-            "logo_width": 150,
+            "logo_width": 100,
             "link": ""
           }
         },
@@ -159,7 +159,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/logowomenshealth_1.png",
-            "logo_width": 150,
+            "logo_width": 100,
             "link": ""
           }
         }
