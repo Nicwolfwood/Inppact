@@ -98,34 +98,34 @@
         "testimonial_card_text_color": ""
       }
     },
-    "media_with_text_GgWLkr": {
+    "media_with_text_yJbGLt": {
       "type": "media-with-text",
       "blocks": {
-        "image_qYzMBU": {
+        "image_9eRTYV": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/shilahomepage.png",
+            "image": "shopify://shop_images/MEDIAGRID_1.png",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center-start text-start",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Fuel Your Body",
-            "content": "<ul><li>Unleash your full potential with our Dynamic Vitality Bundle! ⚡ Boost energy, sharpen focus, and support overall well-being, fuel your body for unstoppable performance every day! 💪<br/><br/></li><li>100+ Carefully selected ingredients</li><li>1 Bottle with 20 supplements inside</li><li>23% Avg. increase in testosterone</li><li>964 Product safety tests<br/></li></ul>",
-            "link_text": "BUY NOW",
-            "link_url": "shopify://products/shilajit-blend",
-            "background": "#a7c957",
+            "title": "Say goodbye to foot pain and hello to all-day comfort",
+            "content": "<p>Stiff-soled shoes can cause painful nerve issues and restrict your natural movement.</p><p>Our <strong>ultra-light, flexible 3cm cloud sole</strong> supports your body’s natural stride, promoting <strong>proper foot alignment</strong> and reducing discomfort in your <strong>knees, hips, back, ankles, and feet</strong>.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#faf8f5",
             "background_gradient": "",
-            "text_color": "#5c504a",
+            "text_color": "#1a1a1a",
             "text_gradient": "",
-            "button_background": "#5c504a",
-            "button_text_color": "#ffffff"
+            "button_background": "",
+            "button_text_color": ""
           }
         }
       },
       "block_order": [
-        "image_qYzMBU"
+        "image_9eRTYV"
       ],
       "settings": {
         "full_width": false,
@@ -148,34 +148,34 @@
         "text_gradient": ""
       }
     },
-    "media_with_text_nWdXTr": {
+    "media_with_text_BQjxkJ": {
       "type": "media-with-text",
       "blocks": {
-        "image_dBqNKh": {
+        "image_ERJWHg": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/mullein-leaf-extract-766039.png",
+            "image": "shopify://shop_images/sdm_1.png",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center-start text-start",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Transform Your Lungs",
-            "content": "<p><strong>✔️ Natural Lung Support – Mullein clears airways, and Chlorophyll boosts oxygen flow. 💨</strong></p><p><strong>🌱 Breathe Easier – Reduces irritation and improves airflow.</strong></p><p><strong>🌟 Antioxidant Power – Supports natural defense and overall wellness.</strong></p>",
-            "link_text": "BUY NOW",
-            "link_url": "shopify://products/mullein-leaf-extract",
-            "background": "#a7c957",
+            "title": "Unmatched All-Day Comfort – Crafted for Your Every Step",
+            "content": "<p>Feel the <strong>comfort</strong> with every step. Our <strong>flexible design</strong> reduces joint pressure and eases discomfort from conditions like arthritis. The <strong>cushioned sole</strong> promotes a <strong>natural stride</strong>, boosts circulation, and supports your feet all day long. <strong>Nomad Slip clogs</strong> offer the <strong>perfect fit</strong>, from work to play.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#faf8f5",
             "background_gradient": "",
-            "text_color": "#5c504a",
+            "text_color": "#1a1a1a",
             "text_gradient": "",
-            "button_background": "#5c504a",
-            "button_text_color": "#ffffff"
+            "button_background": "",
+            "button_text_color": ""
           }
         }
       },
       "block_order": [
-        "image_dBqNKh"
+        "image_ERJWHg"
       ],
       "settings": {
         "full_width": false,
@@ -247,9 +247,9 @@
   "order": [
     "image_with_text_overlay_aMReqK",
     "testimonials_mTWwYr",
-    "media_with_text_GgWLkr",
+    "media_with_text_yJbGLt",
     "scrolling-text",
-    "media_with_text_nWdXTr",
+    "media_with_text_BQjxkJ",
     "faq_xtiDpM"
   ]
 }
