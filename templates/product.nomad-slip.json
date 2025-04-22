@@ -463,13 +463,6 @@
             "content": "<p>Yes! These clogs are designed for <strong>all-day comfort</strong>, with <strong>cushioned soles</strong> and <strong>arch support</strong> to reduce fatigue, making them perfect for long shifts or extended periods of standing.</p>"
           }
         },
-        "item_bkWKqe": {
-          "type": "item",
-          "settings": {
-            "title": "How do I clean and maintain these clogs?",
-            "content": "<p><strong>Cleaning</strong> is easy! Simply <strong>wipe</strong> them down with a damp cloth to remove dirt or spills. For <strong>long-lasting comfort</strong>, allow them to <strong>air dry</strong> after cleaning.</p>"
-          }
-        },
         "item_YdF3md": {
           "type": "item",
           "settings": {
@@ -491,6 +484,13 @@
             "content": "<p>Absolutely! The clogs feature a <strong>non-slip</strong> sole that ensures excellent traction on slippery surfaces, making them perfect for environments like hospitals, kitchens, or other workplaces with wet or slick floors.</p>"
           }
         },
+        "item_bkWKqe": {
+          "type": "item",
+          "settings": {
+            "title": "How do I clean and maintain these clogs?",
+            "content": "<p><strong>Cleaning</strong> is easy! Simply <strong>wipe</strong> them down with a damp cloth to remove dirt or spills. For <strong>long-lasting comfort</strong>, allow them to <strong>air dry</strong> after cleaning.</p>"
+          }
+        },
         "item_nj6gyK": {
           "type": "item",
           "settings": {
@@ -501,10 +501,10 @@
       },
       "block_order": [
         "item_nRhdmJ",
-        "item_bkWKqe",
         "item_YdF3md",
         "item_zb3UVA",
         "item_7CpGbK",
+        "item_bkWKqe",
         "item_nj6gyK"
       ],
       "settings": {
