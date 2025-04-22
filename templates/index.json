@@ -189,29 +189,43 @@
         "item_pyDdkn": {
           "type": "item",
           "settings": {
-            "title": "What are the main benefits of Organic Sea Moss and Shilajit?",
-            "content": "<p>Strengthen immunity, balance thyroid, glow from within, boost energy, relieve stress, and support a healthy weight, feel your best every day!</p>"
+            "title": "Are these clogs suitable for long hours on my feet?",
+            "content": "<p>Yes! These clogs are designed for <strong>all-day comfort</strong>, with <strong>cushioned soles</strong> and <strong>arch support</strong> to reduce fatigue, making them perfect for long shifts or extended periods of standing.</p>"
           }
         },
         "item_GfARGt": {
           "type": "item",
           "settings": {
-            "title": "What Is Mullein & Chlorophyll Extract?",
-            "content": "<p>This powerful liquid supplement is formulated to support clear lungs and easy breathing naturally.</p>"
+            "title": "How do I clean and maintain these clogs?",
+            "content": "<p><strong>Cleaning</strong> is easy! Simply <strong>wipe</strong> them down with a damp cloth to remove dirt or spills. For <strong>long-lasting comfort</strong>, allow them to <strong>air dry</strong> after cleaning.</p>"
           }
         },
         "item_tAWMpL": {
           "type": "item",
           "settings": {
-            "title": "What does the blend feel like?",
-            "content": "<p>Feel energized, clear-headed, and balanced, like a natural reset for your body, leaving you refreshed and ready to conquer the day! 🚀</p>"
+            "title": "How does it benefit the feet?",
+            "content": "<p>Yes! The <strong>ergonomic design</strong> promotes <strong>natural foot alignment</strong>, helping to <strong>reduce pain</strong> in the feet, knees, and lower back, providing enhanced comfort and support.</p>"
           }
         },
         "item_kjEDPn": {
           "type": "item",
           "settings": {
-            "title": "Are there any side effects?",
-            "content": "<p>Our formula is 100% natural and safe, with no known side effects. Designed to support your body’s natural functions for better health and vitality! </p>"
+            "title": "Can I wear these clogs outdoors?",
+            "content": "<p>Definitely! These clogs are <strong>durable</strong> and <strong>lightweight</strong>, perfect for both <strong>indoor</strong> and <strong>outdoor</strong> use. They hold up well in various environments, whether for work or everyday wear.</p>"
+          }
+        },
+        "item_xAQBXt": {
+          "type": "item",
+          "settings": {
+            "title": "Are the clogs slip-resistant?",
+            "content": "<p>Absolutely! The clogs feature a <strong>non-slip</strong> sole that ensures excellent traction on slippery surfaces, making them perfect for environments like hospitals, kitchens, or other workplaces with wet or slick floors.</p>"
+          }
+        },
+        "item_yz9qNW": {
+          "type": "item",
+          "settings": {
+            "title": "What if I don't like it?",
+            "content": "<p>If you're not satisfied, we offer a <strong>30-day money-back guarantee</strong>. Simply return the clogs for a full refund, no questions asked!</p>"
           }
         }
       },
@@ -219,7 +233,9 @@
         "item_pyDdkn",
         "item_GfARGt",
         "item_tAWMpL",
-        "item_kjEDPn"
+        "item_kjEDPn",
+        "item_xAQBXt",
+        "item_yz9qNW"
       ],
       "settings": {
         "full_width": true,
@@ -228,7 +244,7 @@
         "content": "",
         "team_avatar_width": 160,
         "support_hours": "",
-        "answer_time": "Fuel Your Body, Elevate Your Life! 🚀",
+        "answer_time": "RELIEF WITH EVERY STEP.",
         "button_text": "BUY NOW",
         "button_url": "",
         "text_position": "center",
