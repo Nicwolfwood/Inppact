@@ -557,7 +557,15 @@
           "type": "tab",
           "settings": {
             "title": "Specifications",
-            "content": "<p><strong>Breathe Easier Naturally – Just 2 Drops a Day!</strong> 🌿💨</p><p>✔ <strong>Clears Airways & Removes Mucus</strong> – Potent Mullein extract supports healthy lungs.<br/><br/>✔ <strong>Fast & Easy</strong> – Just 2 drops in tea or water, no hassle!<br/><br/>✔ <strong>Affordable & Effective</strong> – A natural alternative to costly treatments.<br/><br/>✔ <strong>Trusted by Experts</strong> – Backed by health professionals.</p><p>No harsh meds, no painful treatments—just pure, natural relief!</p>",
+            "content": "<p><strong>Experience all-day comfort and support</strong> with these classic clogs.</p><p>These clogs offer the perfect balance of <strong>cushioning</strong> and <strong>durability</strong>, making every step feel light. With ample space for <strong>breathability</strong> and natural movement, they support your <strong>arches</strong> and improve <strong>posture</strong>, providing <strong>stability</strong> and comfort throughout the day.</p><p>✓ <strong>Flexible Design</strong> – Relieves joint pressure and keeps your feet relaxed, essential for reducing irritation and discomfort from conditions like <strong>neuropathy</strong> and <strong>arthritis</strong>.</p><p>✓ <strong>Natural Stride</strong> – Supports a cushioned walking style that eases foot and leg muscles, preventing body aches and promoting <strong>healing</strong>, especially for those with <strong>plantar fasciitis</strong>.</p><p>✓ <strong>Boosts Circulation</strong> – Cushioned soles enhance blood flow in your feet and legs, reducing <strong>fatigue</strong> and helping manage symptoms of neuropathy for overall foot health.</p><p>✓ <strong>Spacious Toe Box</strong> – A wide, flexible toe box lets your toes move freely, promoting natural strength and <strong>flexibility</strong> for healthier feet.</p><p>✓ <strong>Versatile Comfort</strong> – Lightweight, flexible, and built for daily wear, these clogs offer exceptional <strong>support</strong> and comfort for a variety of <strong>foot health conditions</strong>.</p>",
+            "page": ""
+          }
+        },
+        "tab_8ETKyd": {
+          "type": "tab",
+          "settings": {
+            "title": "Sizeguide",
+            "content": "",
             "page": ""
           }
         },
@@ -580,6 +588,7 @@
       },
       "block_order": [
         "tab_hAMqD9",
+        "tab_8ETKyd",
         "tab_nAk8Gj",
         "tab_HCaCqa"
       ],
