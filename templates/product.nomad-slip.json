@@ -211,130 +211,19 @@
         "text_color": ""
       }
     },
-    "text_with_icons_9MVCW3": {
-      "type": "text-with-icons",
-      "blocks": {
-        "item_XxWtiE": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/breathing_1.png",
-            "mobile_icon_width": 72,
-            "icon_width": 72,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Supports Clear, Easy Breathing",
-            "content": "<p>Clears airways and relieves congestion, promoting better breathing.</p>"
-          }
-        },
-        "item_PahjmC": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/blood_1.png",
-            "mobile_icon_width": 72,
-            "icon_width": 72,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Blood Circulation",
-            "content": "<p>Improves blood flow and overall cardiovascular health.</p>"
-          }
-        },
-        "item_6bwqCX": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/anti-aging_1.png",
-            "mobile_icon_width": 72,
-            "icon_width": 72,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Naturally Soothing and Anti-Inflammatory",
-            "content": "<p>Helps reduce inflammation, easing chest tightness, congestion, and more.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_XxWtiE",
-        "item_PahjmC",
-        "item_6bwqCX"
-      ],
+    "image_with_text_overlay_GtmYDX": {
+      "type": "image-with-text-overlay",
       "settings": {
         "full_width": true,
-        "stack_on_mobile": false,
-        "title": "",
-        "heading_tag": "h5",
-        "text_alignment": "center",
-        "icon_spacing": "medium",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "text_with_icons_6qWg93": {
-      "type": "text-with-icons",
-      "blocks": {
-        "item_bAWHpG": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/stamina_1_1.png",
-            "mobile_icon_width": 72,
-            "icon_width": 72,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Energy & Vitality",
-            "content": "<p>Wake up energized, sharp, and balanced, fuel your body with nature’s best! </p>"
-          }
-        },
-        "item_cxLgGB": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/herollogo_1_2.png",
-            "mobile_icon_width": 72,
-            "icon_width": 72,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Boosts Lung Health and Detoxifies",
-            "content": "<p>Boosts immunity with powerful natural antioxidants.</p>"
-          }
-        },
-        "item_QiKAWJ": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/clarity_1_1.png",
-            "mobile_icon_width": 72,
-            "icon_width": 72,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Sharper Focus and Mental Clarity",
-            "content": "<p>Keeps you sharp, focused, and ready for anything.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_bAWHpG",
-        "item_cxLgGB",
-        "item_QiKAWJ"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "title": "",
-        "heading_tag": "h5",
-        "text_alignment": "center",
-        "icon_spacing": "medium",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "mobile_image": "shopify://shop_images/clogsbenef.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "rich_text_NBjYDd": {
@@ -777,8 +666,7 @@
     "image_with_text_overlay_fNcdWh",
     "logo_list_ihM9Dq",
     "rich_text_Fc76gh",
-    "text_with_icons_9MVCW3",
-    "text_with_icons_6qWg93",
+    "image_with_text_overlay_GtmYDX",
     "rich_text_NBjYDd",
     "video_AnnH7q",
     "multi_column_4XVVyk",
