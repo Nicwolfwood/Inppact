@@ -485,7 +485,7 @@
         "liquid_DGUhD4": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n    .rating {\n        display: inline-flex;\n        align-items: center;\n        font-size: 1.5rem;\n    }\n\n    .star {\n        color: #20EC8B;\n        margin-right: -3px;\n    }\n\n    .star-empty {\n        color: black;\n    }\n\n    .rating-text {\n        margin-left: 5px;\n        font-size: 1rem;\n        color: #;\n    }\n\n    .rating-text span {\n        margin-right: 5px; /* Ajoute un espace entre les éléments */\n    }\n</style>\n\n</head>\n<body>\n\n    <div class=\"rating\">\n        <span class=\"star\">&#9733;</span>\n        <span class=\"star\">&#9733;</span>\n        <span class=\"star\">&#9733;</span>\n        <span class=\"star\">&#9733;</span>\n        <span class=\"star\">&#9733;</span>\n        <div class=\"rating-text\">\n            <span>4.8/5</span> <span>Loved by 35,000+ Customers</span>\n        </div>\n    </div>\n\n</body>\n</html>"
+            "liquid": "<style> .rating { display: flex; align-items: center; font-size: 1.3rem; white-space: nowrap; font-family: Arial, sans-serif; } .stars { display: flex; } .star { color: #20EC8B; margin-right: -2px; } .rating-text { margin-left: 6px; font-size: 0.9rem; color: black; font-weight: normal; } </style> <div class=\"rating\"> <div class=\"stars\"> <span class=\"star\">&#9733;</span> <span class=\"star\">&#9733;</span> <span class=\"star\">&#9733;</span> <span class=\"star\">&#9733;</span> <span class=\"star\">&#9733;</span> </div> <div class=\"rating-text\"> 4.8/5 · 25,000+ Happy Customers </div> </div>"
           }
         },
         "title_Xzp6ww": {
