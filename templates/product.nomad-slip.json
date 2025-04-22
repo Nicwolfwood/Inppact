@@ -673,36 +673,43 @@
         "item_nRhdmJ": {
           "type": "item",
           "settings": {
-            "title": "What Is Mullein & Chlorophyll Extract?",
-            "content": "<p>This powerful liquid supplement is formulated to support clear lungs and easy breathing naturally.</p>"
+            "title": "Are these clogs suitable for long hours on my feet?",
+            "content": "<p>Yes! These clogs are designed for <strong>all-day comfort</strong>, with <strong>cushioned soles</strong> and <strong>arch support</strong> to reduce fatigue, making them perfect for long shifts or extended periods of standing.</p>"
           }
         },
         "item_bkWKqe": {
           "type": "item",
           "settings": {
-            "title": "Can Mullein Leaf Extract help my respiratory condition?",
-            "content": "<p>Mullein Leaf Extract is completely safe, with no known side effects. It helps your body naturally clear your airways without steroids, chemicals, or toxins.</p>"
+            "title": "How do I clean and maintain these clogs?",
+            "content": "<p><strong>Cleaning</strong> is easy! Simply <strong>wipe</strong> them down with a damp cloth to remove dirt or spills. For <strong>long-lasting comfort</strong>, allow them to <strong>air dry</strong> after cleaning.</p>"
           }
         },
         "item_YdF3md": {
           "type": "item",
           "settings": {
-            "title": "What Are The Benefits Of Mullein?",
-            "content": "<p>Mullein has been used for years to support lung and respiratory health.</p>"
+            "title": "How does it benefit the feet?",
+            "content": "<p>Yes! The <strong>ergonomic design</strong> promotes <strong>natural foot alignment</strong>, helping to <strong>reduce pain</strong> in the feet, knees, and lower back, providing enhanced comfort and support.</p>"
           }
         },
         "item_zb3UVA": {
           "type": "item",
           "settings": {
-            "title": "Is this product safe for daily use?",
-            "content": "<p>Yes, this product is<strong> safe</strong> for daily use. Made from <strong>100% natural</strong> ingredients, it’s <strong>gentle </strong>on your body while delivering effective <strong>health benefits</strong>.</p>"
+            "title": "Can I wear these clogs outdoors?",
+            "content": "<p>Definitely! These clogs are <strong>durable</strong> and <strong>lightweight</strong>, perfect for both <strong>indoor</strong> and <strong>outdoor</strong> use. They hold up well in various environments, whether for work or everyday wear.</p>"
           }
         },
         "item_7CpGbK": {
           "type": "item",
           "settings": {
-            "title": "How long should I use it for?",
-            "content": "<p>Start with 2 drops daily and continue as needed. The longer you use it, the more support you'll give your lungs.</p>"
+            "title": "Are the clogs slip-resistant?",
+            "content": "<p>Absolutely! The clogs feature a <strong>non-slip</strong> sole that ensures excellent traction on slippery surfaces, making them perfect for environments like hospitals, kitchens, or other workplaces with wet or slick floors.</p>"
+          }
+        },
+        "item_nj6gyK": {
+          "type": "item",
+          "settings": {
+            "title": "What if I don't like it?",
+            "content": "<p>If you're not satisfied, we offer a <strong>30-day money-back guarantee</strong>. Simply return the clogs for a full refund, no questions asked!</p>"
           }
         }
       },
@@ -711,7 +718,8 @@
         "item_bkWKqe",
         "item_YdF3md",
         "item_zb3UVA",
-        "item_7CpGbK"
+        "item_7CpGbK",
+        "item_nj6gyK"
       ],
       "settings": {
         "full_width": true,
