@@ -142,9 +142,9 @@
         "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 6,
-        "background": "#a7c957",
+        "background": "#1a1a1a",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#faf8f5",
         "text_gradient": ""
       }
     },
