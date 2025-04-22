@@ -386,7 +386,7 @@
             "column_size": "3",
             "title": "Jimmy G.",
             "heading_tag": "h4",
-            "content": "<p>Mornings used to be rough constant coughing and mucus from smoking. But ever since I started using Mullein + Chlorophyll, that’s gone. No more morning congestion, no more sinus issues just clear breathing. It feels amazing, and I’m never going back!</p>",
+            "content": "<p>These clogs combine <strong>style</strong>, <strong>comfort</strong>, and <strong>practicality</strong>. The <strong>arch support</strong> is perfect, and the <strong>non-slip sole</strong> works great on wet floors. They’re comfy for long hours and keep my feet pain-free. Highly recommend!<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -399,7 +399,7 @@
             "column_size": "3",
             "title": "Janice S.",
             "heading_tag": "h4",
-            "content": "<p>I’m a heavy smoker and work around concrete dust daily, so my lungs take a beating. It took about a month, but the results have been incredible. I’ve been coughing up all the built-up mucus, and now I can finally breathe easier. No more tight chest just clearer lungs and deeper breaths. This stuff really works!</p>",
+            "content": "<p>After trying countless <strong>expensive shoes</strong> and <strong>insoles</strong>, these clogs were a <strong>game-changer</strong>. As a <strong>restaurant manager</strong> on <strong>concrete</strong> all day, the <strong>comfort</strong> and <strong>support</strong> are amazing. No more foot pain, and the <strong>non-slip grip</strong> is perfect!</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -412,33 +412,7 @@
             "column_size": "3",
             "title": "Mary K.",
             "heading_tag": "h4",
-            "content": "<p>I have severe asthma, and my husband has COPD. We tried Mullein + Chlorophyll, and within just a few days, our breathing felt so much easier! Less chest congestion, thinner mucus, and even better sleep. This has been a game-changer for our health!</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_VfPRN6": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/REVIEWMULLEIN_1.png",
-            "column_size": "3",
-            "title": "Steve G.",
-            "heading_tag": "h4",
-            "content": "<p>I've been using this for 10 days, and the results are wild. As a longtime smoker, my lungs were a mess. By day 5, I started coughing up stuff I didn’t even know was there, gross but satisfying. Now, my breathing is clearer, my morning congestion is almost gone, and my endurance is improving. Definitely sticking with this!</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_bN4NRV": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/REVIEWMULLEIN2_1.png",
-            "column_size": "3",
-            "title": "Tracy M.",
-            "heading_tag": "h4",
-            "content": "<p>I had no idea how much I needed this until I started using it. My constant sinus issues and mucus? Almost gone. It feels like my body is cleansing itself from the inside out. More energy, clearer skin, I haven’t felt this fresh in years!</p><h3></h3>",
+            "content": "<p>I wasn’t sure what to expect, but these clogs are a <strong>pleasant surprise</strong>! The <strong>comfort</strong> is off the charts, and the <strong>arch support</strong> is perfect for my foot pain. The <strong>non-slip traction</strong> is fantastic, and they’re easy to slip on and off. A must-have for anyone on their feet all day!</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -447,11 +421,37 @@
         "item_yYQcjq": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/REVIEWMULLEIN3_1.png",
+            "image": "shopify://shop_images/Avi6.png",
             "column_size": "3",
             "title": "Sarah K.",
             "heading_tag": "h4",
-            "content": "<p>I won’t lie the first taste caught me off guard with its ‘earthy’ vibe. But after a few days, my sinuses cleared, my chest felt lighter, and those rough morning coughs? Gone. Now, I’m breathing deeper and feeling better every day. No way I’m stopping now!</p>",
+            "content": "<p>As a healthcare worker, my feet are in <strong>Heaven</strong>! After two weeks of wearing these clogs, I can’t imagine my shifts without them. They’re incredibly <strong>comfortable</strong> and supportive, my feet feel great even after long hours on my feet. Happy!</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_VfPRN6": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Avi4.png",
+            "column_size": "3",
+            "title": "David G.",
+            "heading_tag": "h4",
+            "content": "<p>I'm <strong>6'4\"</strong> and <strong>320lbs</strong>, and finding comfortable shoes has always been tough. These clogs feel like you're walking on a <strong>cloud, </strong>supportive and incredibly <strong>comfortable</strong>. Perfect for bigger builds!</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_bN4NRV": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Avi5.png",
+            "column_size": "3",
+            "title": "Monica H.",
+            "heading_tag": "h4",
+            "content": "<p>As a nurse, I’m on my feet all day, and these clogs have been a <strong>game-changer</strong>. The <strong>comfort</strong> is unmatched, and the <strong>arch support</strong> helps relieve the pain from long shifts. The <strong>non-slip grip</strong> keeps me steady, and they’re easy to slip on and off. My feet have never felt better!</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -462,9 +462,9 @@
         "item_gBCEP3",
         "item_CmRVeA",
         "item_8X34Nj",
+        "item_yYQcjq",
         "item_VfPRN6",
-        "item_bN4NRV",
-        "item_yYQcjq"
+        "item_bN4NRV"
       ],
       "settings": {
         "full_width": true,
