@@ -142,7 +142,7 @@
         "logo_KtiRXP": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Healthlinelogo_1_1.png",
+            "logo": "shopify://shop_images/stile.png",
             "logo_width": 80,
             "link": ""
           }
@@ -150,7 +150,7 @@
         "logo_VFRyzx": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/NaturallygoodhealthLogo_1_1.png",
+            "logo": "shopify://shop_images/ELLLELELELELELELELELELE.png",
             "logo_width": 80,
             "link": ""
           }
@@ -379,23 +379,10 @@
     "multi_column_4XVVyk": {
       "type": "multi-column",
       "blocks": {
-        "item_CmRVeA": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/REVIEWMULLEIN4_1.png",
-            "column_size": "3",
-            "title": "Peter S.",
-            "heading_tag": "h4",
-            "content": "<p>I’m a heavy smoker and work around concrete dust daily, so my lungs take a beating. It took about a month, but the results have been incredible. I’ve been coughing up all the built-up mucus, and now I can finally breathe easier. No more tight chest just clearer lungs and deeper breaths. This stuff really works!</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_gBCEP3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/REVIEWMULLEIN5_1.png",
+            "image": "shopify://shop_images/Avi2_1.png",
             "column_size": "3",
             "title": "Jimmy G.",
             "heading_tag": "h4",
@@ -405,16 +392,29 @@
             "link_style": "link"
           }
         },
+        "item_CmRVeA": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Aavi3.png",
+            "column_size": "3",
+            "title": "Janice S.",
+            "heading_tag": "h4",
+            "content": "<p>I’m a heavy smoker and work around concrete dust daily, so my lungs take a beating. It took about a month, but the results have been incredible. I’ve been coughing up all the built-up mucus, and now I can finally breathe easier. No more tight chest just clearer lungs and deeper breaths. This stuff really works!</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_8X34Nj": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/REVIEWMULLEIN6_1.png",
+            "image": "shopify://shop_images/Avi1.png",
             "column_size": "3",
-            "title": "Janice K.",
+            "title": "Mary K.",
             "heading_tag": "h4",
             "content": "<p>I have severe asthma, and my husband has COPD. We tried Mullein + Chlorophyll, and within just a few days, our breathing felt so much easier! Less chest congestion, thinner mucus, and even better sleep. This has been a game-changer for our health!</p>",
             "link_url": "",
-            "link_text": "",
+            "link_text": "Mary K.",
             "link_style": "link"
           }
         },
@@ -459,8 +459,8 @@
         }
       },
       "block_order": [
-        "item_CmRVeA",
         "item_gBCEP3",
+        "item_CmRVeA",
         "item_8X34Nj",
         "item_VfPRN6",
         "item_bN4NRV",
