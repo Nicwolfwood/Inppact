@@ -42,13 +42,13 @@
         "testimonial_nFGwz7": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/aWL7E7Wu_1_1.jpg",
+            "image": "shopify://shop_images/1000022631.jpg",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Michael O.",
+            "author": "Rossie P.",
             "title": "Finally, the support I needed!",
-            "content": "<p>I’ve been suffering from foot pain for years, especially after long shifts at work. These clogs are an absolute game-changer! The cushioning is just perfect, and the <strong>non-slip grip</strong> gives me confidence as I walk around all day. They feel light, flexible, and my feet no longer hurt by the end of the day. <strong>Instant pain relief</strong> and <strong>all-day comfort</strong>. Highly recommend!<br/><br/></p>"
+            "content": "<p>I've been dealing with foot pain for years, especially after long shifts. These clogs are a game-changer! The cushioning is perfect, and the <strong>non-slip grip</strong> gives me confidence all day. They're light, flexible, and my feet no longer hurt by the end of the day. <strong>Instant pain relief</strong> and <strong>all-day comfort</strong>. Highly recommend!</p>"
           }
         },
         "testimonial_iYHtaF": {
@@ -60,7 +60,7 @@
             "rating": 5,
             "author": "Emilie F.",
             "title": "Best decision I’ve made for my feet!",
-            "content": "<p>I’ve tried countless shoes, but none have come close to the comfort of these clogs. From the moment I put them on, I could feel the difference. The <strong>wide, breathable fit</strong> lets my feet breathe, while the design allows me to walk naturally without feeling stiff. <strong>Goodbye foot pain!</strong> Whether I'm standing for hours or walking around, these clogs make my day so much easier.</p>"
+            "content": "<p>I’ve tried many shoes, but these clogs are on another level. The <strong>wide, breathable fit</strong> keeps my feet comfortable all day, and the design supports a natural walking motion. <strong>Goodbye foot pain!</strong> Whether standing or walking, these clogs make my day so much easier.</p>"
           }
         },
         "testimonial_TR4LPX": {
@@ -72,7 +72,7 @@
             "rating": 5,
             "author": "Hana M.",
             "title": "Amazing support for all-day wear",
-            "content": "<p>I work long hours on my feet, and these clogs have been a life-saver. The <strong>flexible design</strong> helps relieve pressure from my joints, and my feet feel relaxed even after 12 hours on them. The <strong>boost to blood circulation</strong> is real – I don’t get the usual foot fatigue anymore. Plus, they’re super easy to clean! These are my go-to shoes now, and I wouldn’t go back to anything else.</p>"
+            "content": "<p>I work long hours on my feet, and these clogs have been a <strong>life-saver</strong>. The <strong>flexible design</strong> relieves pressure from my joints, and my feet feel relaxed even after 12 hours. The <strong>boost to blood circulation</strong> is real, no more foot fatigue. Plus, they’re super easy to clean! These are my go-to shoes now.</p>"
           }
         }
       },
@@ -83,9 +83,9 @@
       ],
       "settings": {
         "full_width": true,
-        "stack_testimonials": true,
+        "stack_testimonials": false,
         "subheading": "",
-        "title": "35,000+ EXTREMELY HAPPY CUSTOMERS",
+        "title": "Loved by 25,000+ Happy Feet",
         "content": "",
         "link_url": "",
         "link_text": "",
