@@ -12,5 +12,12 @@
   "context": {
     "market": "fr"
   },
-  "sections": {}
+  "sections": {
+    "image_with_text_overlay_fNcdWh": {
+      "settings": {
+        "image": "shopify://shop_images/sebaaaatttttttt_buro_2.png"
+      },
+      "blocks": {}
+    }
+  }
 }
