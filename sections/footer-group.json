@@ -38,12 +38,21 @@
             "content": "<p><strong>RELIEF WITH EVERY STEP.<br/></strong></p>",
             "enable_follow_on_shop": true
           }
+        },
+        "text_aWMAYN": {
+          "type": "text",
+          "settings": {
+            "title": "Need Help?",
+            "content": "<p>You can reach us by email at <strong>contact@movenomad.com</strong> our team will typically respond within 12 hours.</p>",
+            "enable_follow_on_shop": true
+          }
         }
       },
       "block_order": [
         "newsletter",
         "links",
-        "text"
+        "text",
+        "text_aWMAYN"
       ],
       "settings": {
         "show_social_media": true,
