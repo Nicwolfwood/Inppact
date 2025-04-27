@@ -14,24 +14,10 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "message_UbfVgy": {
-          "type": "message",
-          "settings": {
-            "text": "🌸 Spring Sale! Get FREE Pairs!",
-            "url": ""
-          }
-        },
         "message": {
           "type": "message",
           "settings": {
-            "text": "30 days money back guarantee",
-            "url": ""
-          }
-        },
-        "message_mXEV8D": {
-          "type": "message",
-          "settings": {
-            "text": "Free delivery worldwide",
+            "text": "🚨 Today Only: Extra 10% Off at Checkout!",
             "url": ""
           }
         },
@@ -42,20 +28,34 @@
             "url": ""
           }
         },
+        "message_UbfVgy": {
+          "type": "message",
+          "settings": {
+            "text": "🌸 Spring Sale! Get FREE Pairs!",
+            "url": ""
+          }
+        },
         "message_yLm7XN": {
           "type": "message",
           "settings": {
             "text": "3 + 2 FREE 🎁",
             "url": ""
           }
+        },
+        "message_mXEV8D": {
+          "type": "message",
+          "settings": {
+            "text": "Free delivery worldwide",
+            "url": ""
+          }
         }
       },
       "block_order": [
-        "message_UbfVgy",
         "message",
-        "message_mXEV8D",
         "message_MiLbtm",
-        "message_yLm7XN"
+        "message_UbfVgy",
+        "message_yLm7XN",
+        "message_mXEV8D"
       ],
       "settings": {
         "enable_sticky": false,
