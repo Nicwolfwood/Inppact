@@ -297,6 +297,12 @@
             "payment_button_text_color": ""
           }
         },
+        "liquid_6iDAPc": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"background-color: #fff3cd; color: #856404; padding: 10px; text-align: center; font-weight: bold; font-size: 16px;\">\n🚨 Today Only: Extra 10% Off at Checkout!\n</div>"
+          }
+        },
         "liquid_D97RGA": {
           "type": "liquid",
           "settings": {
@@ -315,6 +321,7 @@
         "title",
         "liquid_AiRTeh",
         "buy_buttons",
+        "liquid_6iDAPc",
         "liquid_D97RGA",
         "liquid_PFQxCq"
       ],
