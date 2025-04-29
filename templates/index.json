@@ -104,15 +104,15 @@
         "image_9eRTYV": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/MEDIAGRID_1.png",
+            "image": "shopify://shop_images/GELB.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center-start text-start",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Confort amplifié",
-            "content": "<p><strong>Offre un maintien ajusté et confortable</strong>, qui épouse la jambe <strong>sans la comprimer</strong>.<br/><br/>Résultat : des jambes <strong>fraîches, légères et détendues toute la journée</strong>.<br/><br/>Parfaites pour rester <strong>actif(ve) sans sacrifier le confort</strong>.<br/><br/></p>",
+            "title": "Active l’énergie de vos jambes",
+            "content": "<p><strong>Stimule la circulation sanguine pour soulager la fatigue, les douleurs et la sensation de jambes lourdes.</strong><br/><br/>Vous restez <strong>léger, actif et plein d’énergie</strong> toute la journée.<br/><strong>Idéal au travail, en voyage ou à la maison  pour un confort qui ne vous lâche pas.</strong></p>",
             "link_text": "Acheter maintenant",
             "link_url": "shopify://products/nomad-slip",
             "background": "#faf8f5",
