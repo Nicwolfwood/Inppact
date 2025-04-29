@@ -17,35 +17,28 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "🚨 Today Only: Extra 10% Off at Checkout!",
+            "text": "🛒 Aujourd’hui seulement : -10% en plus dans votre panier!",
             "url": ""
           }
         },
         "message_MiLbtm": {
           "type": "message",
           "settings": {
-            "text": "2 + 1 FREE 🎁",
-            "url": ""
-          }
-        },
-        "message_UbfVgy": {
-          "type": "message",
-          "settings": {
-            "text": "🌸 Spring Sale! Get FREE Pairs!",
+            "text": "2 + 2 OFFERTE 🎁",
             "url": ""
           }
         },
         "message_yLm7XN": {
           "type": "message",
           "settings": {
-            "text": "3 + 2 FREE 🎁",
+            "text": "3 + 5 OFFERTE 🎁",
             "url": ""
           }
         },
         "message_mXEV8D": {
           "type": "message",
           "settings": {
-            "text": "Free delivery worldwide",
+            "text": "Livraison offerte",
             "url": ""
           }
         }
@@ -53,7 +46,6 @@
       "block_order": [
         "message",
         "message_MiLbtm",
-        "message_UbfVgy",
         "message_yLm7XN",
         "message_mXEV8D"
       ],
