@@ -550,7 +550,7 @@
         "image_R9VQdt": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/MEDIAGRID_2.png",
+            "image": "shopify://shop_images/chossetpageprodu.png",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center-start text-start",
@@ -585,15 +585,15 @@
         "image_PwKjWz": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/orto.png",
+            "image": "shopify://shop_images/3.webp",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center-start text-start",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Recommended by orthopedists",
-            "content": "<p>Step into <strong>comfort</strong> like never before with <strong>Nomad Slip</strong> clogs. Endorsed by <strong>orthopedic experts</strong>, they’re designed to support your feet all day, alleviating pain and discomfort. Whether you’re working or on the go, feel the difference with every step. <strong>No more pain</strong>, just pure comfort, all day, every day.</p>",
+            "title": "Faciles à mettre, simples à retirer",
+            "content": "<p><strong>Mettre des chaussettes ne devrait jamais être une galère.</strong><br/>Les chaussettes Nomad™ sont faites en <strong>tissu ultra-extensible</strong> pour <strong>s’enfiler facilement, sans effort</strong>.</p><p><br/>Portez-les le matin, sentez la différence : <strong>moins de douleur</strong>, <strong>moins de gonflements</strong>, <strong>plus d’énergie toute la journée</strong>.</p>",
             "link_text": "",
             "link_url": "",
             "background": "#faf8f5",
