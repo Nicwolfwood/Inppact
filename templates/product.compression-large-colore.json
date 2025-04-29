@@ -415,19 +415,6 @@
             "link_style": "link"
           }
         },
-        "item_FbekCG": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/snaptik_7498821167017577750_hd.mp4",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_nH89kH": {
           "type": "item",
           "settings": {
@@ -440,12 +427,25 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_FbekCG": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/snaptik_7498821167017577750_hd.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
         "item_4ddhJ3",
-        "item_FbekCG",
-        "item_nH89kH"
+        "item_nH89kH",
+        "item_FbekCG"
       ],
       "settings": {
         "full_width": true,
