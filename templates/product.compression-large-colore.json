@@ -402,6 +402,19 @@
     "multi_column_68aRTA": {
       "type": "multi-column",
       "blocks": {
+        "item_4ddhJ3": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/snaptik_7498856202139356438_hd.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_FbekCG": {
           "type": "item",
           "settings": {
@@ -427,25 +440,12 @@
             "link_text": "",
             "link_style": "link"
           }
-        },
-        "item_4ddhJ3": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/snaptik_7498856202139356438_hd.mp4",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
         }
       },
       "block_order": [
+        "item_4ddhJ3",
         "item_FbekCG",
-        "item_nH89kH",
-        "item_4ddhJ3"
+        "item_nH89kH"
       ],
       "settings": {
         "full_width": true,
