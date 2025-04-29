@@ -348,8 +348,8 @@
       "remove_with_title": "Remove {{ title }}"
     },
     "free_shipping_bar": {
-      "limit_unreached_html": "🌸 Spring Sale: Buy 2 + 1 FREE 🎁 or 4 + 2 FREE 🎁",
-      "limit_reached_html": "🌸 Spring Sale: Buy 2 + 1 FREE 🎁 or 4 + 2 FREE 🎁"
+      "limit_unreached_html": "🌸Offre de Printemps : 2 + 2 OFFERTE 🎁",
+      "limit_reached_html": "🌸Offre de Printemps : 2 + 2 OFFERTE 🎁"
     },
     "shipping_estimator": {
       "estimate_shipping": "Estimate shipping",
