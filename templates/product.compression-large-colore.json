@@ -474,7 +474,7 @@
           "type": "item",
           "settings": {
             "title": "Est-ce que les chaussettes sont faciles à enfiler, même avec une mobilité réduite ?",
-            "content": "<p>Oui ! Nos chaussettes de compression sont conçues pour être faciles à enfiler.<br/>Elles sont douces, extensibles et spécialement pensées pour les mollets larges.<br/></p>"
+            "content": "<p>Oui ! Nos chaussettes de compression sont conçues pour être faciles à enfiler.<br/>Elles sont douces, extensibles et spécialement pensées pour les mollets larges.</p>"
           }
         },
         "item_zb3UVA": {
@@ -495,7 +495,7 @@
           "type": "item",
           "settings": {
             "title": "Les chaussettes sont-elles serrées ? Quel niveau de compression vais-je ressentir ?",
-            "content": "<p>Nos chaussettes de compression utilisent une compression graduée de 15 à 20 mmHg, offrant le parfait équilibre entre maintien et soulagement, sans jamais être trop serrées.<br/><br/>Cette compression douce et progressive assure un soutien constant de la cheville jusqu’au mollet, ce qui les rend agréables à porter toute la journée, tout en réduisant efficacement les gonflements et l’inconfort.<br/><br/></p>"
+            "content": "<p>Nos chaussettes de compression utilisent une compression graduée de 15 à 20 mmHg, offrant le parfait équilibre entre maintien et soulagement, sans jamais être trop serrées.<br/><br/>Cette compression douce et progressive assure un soutien constant de la cheville jusqu’au mollet, ce qui les rend agréables à porter toute la journée, tout en réduisant efficacement les gonflements et l’inconfort.</p>"
           }
         },
         "item_nj6gyK": {
@@ -503,13 +503,6 @@
           "settings": {
             "title": "Puis-je porter ces chaussettes si je souffre de diabète, de varices ou d’œdèmes ?",
             "content": "<p>Oui ! Nos chaussettes de compression sont conçues pour aider à soulager les symptômes liés au diabète, aux varices et aux œdèmes.<br/><br/>Elles offrent une compression douce et graduée qui permet d’améliorer la circulation sanguine, de réduire les gonflements et de soulager l’inconfort.<br/><br/></p>"
-          }
-        },
-        "item_MXi3qP": {
-          "type": "item",
-          "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
           }
         }
       },
@@ -519,8 +512,7 @@
         "item_zb3UVA",
         "item_7CpGbK",
         "item_bkWKqe",
-        "item_nj6gyK",
-        "item_MXi3qP"
+        "item_nj6gyK"
       ],
       "settings": {
         "full_width": true,

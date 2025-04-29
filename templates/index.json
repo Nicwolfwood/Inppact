@@ -189,43 +189,43 @@
         "item_pyDdkn": {
           "type": "item",
           "settings": {
-            "title": "Are these clogs suitable for long hours on my feet?",
-            "content": "<p>Yes! These clogs are designed for <strong>all-day comfort</strong>, with <strong>cushioned soles</strong> and <strong>arch support</strong> to reduce fatigue, making them perfect for long shifts or extended periods of standing.</p>"
+            "title": "Quelle est la différence entre Nomad et les autres marques ?",
+            "content": "<p>Pour faire <strong>simple : </strong>on a créé des chaussettes de compression que vous <strong>aurez </strong><em><strong>envie</strong></em><strong> de porter.</strong><br/>Contrairement aux autres marques souvent <strong>trop serrées</strong>, <strong>difficiles à enfiler</strong> ou tout simplement <strong>inconfortables</strong>, les nôtres sont conçues pour être <strong>faciles à mettre</strong>, <strong>agréables à porter</strong>, tout en offrant un <strong>soulagement efficace</strong>.</p>"
           }
         },
         "item_GfARGt": {
           "type": "item",
           "settings": {
-            "title": "How do I clean and maintain these clogs?",
-            "content": "<p><strong>Cleaning</strong> is easy! Simply <strong>wipe</strong> them down with a damp cloth to remove dirt or spills. For <strong>long-lasting comfort</strong>, allow them to <strong>air dry</strong> after cleaning.</p>"
+            "title": "Est-ce que les chaussettes sont faciles à enfiler, même avec une mobilité réduite ?",
+            "content": "<p>Oui ! Nos chaussettes de compression sont conçues pour être faciles à enfiler.<br/>Elles sont douces, extensibles et spécialement pensées pour les mollets larges.</p>"
           }
         },
         "item_tAWMpL": {
           "type": "item",
           "settings": {
-            "title": "How does it benefit the feet?",
-            "content": "<p>Yes! The <strong>ergonomic design</strong> promotes <strong>natural foot alignment</strong>, helping to <strong>reduce pain</strong> in the feet, knees, and lower back, providing enhanced comfort and support.</p>"
+            "title": "Combien de temps puis-je porter les chaussettes ?",
+            "content": "<p> Vous pouvez porter nos chaussettes de compression toute la journée, généralement entre 8 et 12 heures.</p><p>Elles sont conçues pour un usage prolongé, en offrant <strong>soutien et confort</strong>, que vous soyez <strong>debout</strong>, <strong>assis longtemps</strong>, ou en <strong>mouvement</strong>.<br/><br/>Il est recommandé de les retirer avant de dormir, <strong>sauf avis contraire d’un professionnel de santé.</strong></p>"
           }
         },
         "item_kjEDPn": {
           "type": "item",
           "settings": {
-            "title": "Can I wear these clogs outdoors?",
-            "content": "<p>Definitely! These clogs are <strong>durable</strong> and <strong>lightweight</strong>, perfect for both <strong>indoor</strong> and <strong>outdoor</strong> use. They hold up well in various environments, whether for work or everyday wear.</p>"
+            "title": "Puis-je porter ces chaussettes pour les longs vols?",
+            "content": "<p>Oui, nos chaussettes de compression sont parfaites pour les long vols !<br/><br/>Elles aident à <strong>améliorer la circulation</strong>, <strong>réduire les gonflements</strong> et <strong>prévenir l’inconfort</strong> lié aux longues périodes en position assise.</p>"
           }
         },
         "item_xAQBXt": {
           "type": "item",
           "settings": {
-            "title": "Are the clogs slip-resistant?",
-            "content": "<p>Absolutely! The clogs feature a <strong>non-slip</strong> sole that ensures excellent traction on slippery surfaces, making them perfect for environments like hospitals, kitchens, or other workplaces with wet or slick floors.</p>"
+            "title": "Les chaussettes sont-elles serrées ? Quel niveau de compression vais-je ressentir ?",
+            "content": "<p>Nos chaussettes de compression utilisent une compression graduée de 15 à 20 mmHg, offrant le parfait équilibre entre maintien et soulagement, sans jamais être trop serrées.<br/><br/>Cette compression douce et progressive assure un soutien constant de la cheville jusqu’au mollet, ce qui les rend agréables à porter toute la journée, tout en réduisant efficacement les gonflements et l’inconfort.</p>"
           }
         },
         "item_yz9qNW": {
           "type": "item",
           "settings": {
-            "title": "What if I don't like it?",
-            "content": "<p>If you're not satisfied, we offer a <strong>30-day money-back guarantee</strong>. Simply return the clogs for a full refund, no questions asked!</p>"
+            "title": "Puis-je porter ces chaussettes si je souffre de diabète, de varices ou d’œdèmes ?",
+            "content": "<p>Oui ! Nos chaussettes de compression sont conçues pour aider à soulager les symptômes liés au diabète, aux varices et aux œdèmes.<br/><br/>Elles offrent une compression douce et graduée qui permet d’améliorer la circulation sanguine, de réduire les gonflements et de soulager l’inconfort.</p>"
           }
         }
       },
