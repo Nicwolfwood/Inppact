@@ -614,6 +614,41 @@
         "spacing": "small"
       }
     },
+    "media_with_text_JjUNtD": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_9YVrW7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/GELB.webp",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Favorise une bonne circulation sanguine",
+            "content": "<p><strong>Une bonne circulation sanguine est essentielle pour garder des jambes jeunes et en bonne santé.</strong><br/><br/>Nos chaussettes favorisent un <strong>retour veineux efficace vers le cœur</strong>, ce qui aide à <strong>prévenir les accumulations de sang et de liquide dans les jambes</strong>.<br/><br/></p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#faf8f5",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_9YVrW7"
+      ],
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "small"
+      }
+    },
     "1743239945613943f1": {
       "type": "apps",
       "blocks": {
@@ -657,6 +692,7 @@
     "faq_yGU9m9",
     "media_with_text_gQ3i4j",
     "media_with_text_PEnEkB",
+    "media_with_text_JjUNtD",
     "1743239945613943f1"
   ]
 }
