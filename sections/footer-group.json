@@ -19,8 +19,8 @@
           "settings": {
             "image_width": 150,
             "heading_size": "h3",
-            "title": "Join the Nomad Crew",
-            "content": "<p>Get exclusive access to our new collections, special discounts and more.</p>"
+            "title": "Rejoins la team Nomad",
+            "content": "<p>Accédez en exclusivité à nos nouvelles collections, offres spéciales et bien plus encore.</p>"
           }
         },
         "links": {
@@ -34,8 +34,8 @@
         "text_aWMAYN": {
           "type": "text",
           "settings": {
-            "title": "Need Help?",
-            "content": "<p>You can reach us by email at <strong>contact@movenomad.com</strong> our team will typically respond within 12 hours.</p>",
+            "title": "CONTACTEZ-NOUS",
+            "content": "<p>Nous sommes là pour vous aider ! Notre équipe est disponible et vous répondra dans les 12h : <strong>contact@movenomad.com</strong> </p>",
             "enable_follow_on_shop": false
           }
         },
@@ -43,7 +43,7 @@
           "type": "text",
           "settings": {
             "title": "NOMAD.",
-            "content": "<p><strong>RELIEF WITH EVERY STEP.<br/></strong></p>",
+            "content": "<p><strong>SOULAGEMENT A CHAQUE PAS.</strong></p><p></p>",
             "enable_follow_on_shop": false
           }
         }
