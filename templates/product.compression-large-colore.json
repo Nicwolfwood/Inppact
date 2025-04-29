@@ -365,16 +365,16 @@
         "tab_nAk8Gj": {
           "type": "tab",
           "settings": {
-            "title": "Try it free for 30 days",
-            "content": "<p>Try risk-free for <strong>30 days. </strong>If you're not completely satisfied with your, you can return it and <strong>receive a full refund.</strong></p>",
+            "title": "Essayez-le 30 jours gratuitement",
+            "content": "<p><strong>Essayez sans risque pendant 30 jours.</strong><br/>Si vous n’êtes pas entièrement satisfait, vous pouvez nous les retourner et recevoir un <strong>remboursement complet</strong>.</p>",
             "page": ""
           }
         },
         "tab_HCaCqa": {
           "type": "tab",
           "settings": {
-            "title": "Free shipping",
-            "content": "<p>Get yours delivered with free shipping in just 4-10 days!</p>",
+            "title": "Livraison gratuite à domicile",
+            "content": "<p>Recevez votre commande avec la livraison gratuite en 4 à 10 jours !</p>",
             "page": ""
           }
         }
@@ -451,9 +451,9 @@
         "full_width": true,
         "stack_on_mobile": false,
         "gap": "medium",
-        "text_alignment": "start",
+        "text_alignment": "center",
         "subheading": "",
-        "title": "Tried, Tested & Loved",
+        "title": "Ils l’ont essayée, ils ne la quittent plus",
         "content": "",
         "background": "",
         "background_gradient": "",
