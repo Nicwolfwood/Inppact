@@ -181,11 +181,11 @@
         "item_CmRVeA": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Aavi3.png",
+            "image": "shopify://shop_images/AviTkecherr2.png",
             "column_size": "3",
-            "title": "Janice S.",
+            "title": "Karine D.",
             "heading_tag": "h4",
-            "content": "<p>After trying countless <strong>expensive shoes</strong> and <strong>insoles</strong>, these clogs were a <strong>game-changer</strong>. As a <strong>restaurant manager</strong> on <strong>concrete</strong> all day, the <strong>comfort</strong> and <strong>support</strong> are amazing. No more foot pain, and the <strong>non-slip grip</strong> is perfect!</p>",
+            "content": "<p>Franchement, je ne pensais pas dire ça d'une paire de chaussettes de compression… mais je les adore. Elles sont <strong>hyper simples à mettre et à enlever</strong>, je ne galère pas du tout. Il y a <strong>assez de place pour les pieds</strong>, je ne me sens pas serrée du tout.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -194,37 +194,11 @@
         "item_8X34Nj": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Avi1.png",
+            "image": "shopify://shop_images/AviTkecherr3.png",
             "column_size": "3",
-            "title": "Mary K.",
+            "title": "Marie C.",
             "heading_tag": "h4",
-            "content": "<p>I wasn’t sure what to expect, but these clogs are a <strong>pleasant surprise</strong>! The <strong>comfort</strong> is off the charts, and the <strong>arch support</strong> is perfect for my foot pain. The <strong>non-slip traction</strong> is fantastic, and they’re easy to slip on and off. A must-have for anyone on their feet all day!</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_yYQcjq": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Avi6.png",
-            "column_size": "3",
-            "title": "Sarah K.",
-            "heading_tag": "h4",
-            "content": "<p>As a healthcare worker, my feet are in <strong>Heaven</strong>! After two weeks of wearing these clogs, I can’t imagine my shifts without them. They’re incredibly <strong>comfortable</strong> and supportive, my feet feel great even after long hours on my feet. Happy!</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_VfPRN6": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Avi4.png",
-            "column_size": "3",
-            "title": "David G.",
-            "heading_tag": "h4",
-            "content": "<p>I'm <strong>6'4\"</strong> and <strong>320lbs</strong>, and finding comfortable shoes has always been tough. These clogs feel like you're walking on a <strong>cloud, </strong>supportive and incredibly <strong>comfortable</strong>. Perfect for bigger builds!</p>",
+            "content": "<p>Je les <strong>adore</strong>, <strong>ultra douces</strong>, <strong>super confortables</strong>… on dirait que je ne porte rien ! Je <strong>dors</strong> même avec tellement elles gardent mes pieds<strong> bien</strong> au<strong> chaud</strong>. Et depuis que je les porte, ma <strong>circulation </strong>s’est vraiment <strong>améliorée</strong>, un vrai <strong>coup de cœur.</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -233,11 +207,37 @@
         "item_bN4NRV": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Avi5.png",
+            "image": "shopify://shop_images/AviTkecherr6.png",
             "column_size": "3",
-            "title": "Monica H.",
+            "title": "Quentin M.",
             "heading_tag": "h4",
-            "content": "<p>As a nurse, I’m on my feet all day, and these clogs have been a <strong>game-changer</strong>. The <strong>comfort</strong> is unmatched, and the <strong>arch support</strong> helps relieve the pain from long shifts. The <strong>non-slip grip</strong> keeps me steady, and they’re easy to slip on and off. My feet have never felt better!</p>",
+            "content": "<p>Je bosse sur les chantiers toute la journée. Avec ces chaussettes, <strong>moins de douleurs</strong>, <strong>jambes moins gonflées</strong>, et <strong>je tiens debout sans difficultés</strong>.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_yYQcjq": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/AviTkecherr4.png",
+            "column_size": "3",
+            "title": "Christine P.",
+            "heading_tag": "h4",
+            "content": "<p>J’ai testé plusieurs modèles, mais <strong>celles-ci sont mes préférées</strong>. <strong>Super confort</strong>, <strong>elles tiennent bien</strong>, et j’ai senti une vraie <strong>différence sur la circulation</strong>.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_VfPRN6": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/AviTkecherr5.png",
+            "column_size": "3",
+            "title": "Juliette G.",
+            "heading_tag": "h4",
+            "content": "<p>Très surprise par ces chaussettes : <strong>faciles à enfiler</strong>, <strong>super agréables</strong>, et mes <strong>jambes sont moins lourdes</strong> en fin de journée.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -248,9 +248,9 @@
         "item_gBCEP3",
         "item_CmRVeA",
         "item_8X34Nj",
+        "item_bN4NRV",
         "item_yYQcjq",
-        "item_VfPRN6",
-        "item_bN4NRV"
+        "item_VfPRN6"
       ],
       "settings": {
         "full_width": true,
