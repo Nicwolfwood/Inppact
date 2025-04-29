@@ -444,6 +444,11 @@
   "shopify": {
     "links": {
       "powered_by_shopify": " "
+    },
+    "checkout": {
+      "order_summary": {
+        "free_shipping_discount_label": "Livraison offerte"
+      }
     }
   }
 }
