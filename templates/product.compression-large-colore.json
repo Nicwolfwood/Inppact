@@ -168,11 +168,11 @@
         "item_gBCEP3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Avi2_1.png",
+            "image": "shopify://shop_images/AviTkecherr1.png",
             "column_size": "3",
-            "title": "Jimmy G.",
+            "title": "Claire L.",
             "heading_tag": "h4",
-            "content": "<p>These clogs combine <strong>style</strong>, <strong>comfort</strong>, and <strong>practicality</strong>. The <strong>arch support</strong> is perfect, and the <strong>non-slip sole</strong> works great on wet floors. They’re comfy for long hours and keep my feet pain-free. Highly recommend!<br/><br/></p>",
+            "content": "<p><strong>J’adore</strong> ces chaussettes, <strong>faciles </strong>à enfiler, à retirer, et<strong> super confortables</strong> toute la journée. Elles offrent le même niveau de <strong>soutien</strong> que des chaussettes de compression médicales, je les recommande à 110%! </p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
