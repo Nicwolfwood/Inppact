@@ -114,7 +114,7 @@
             "title": "Active l’énergie de vos jambes",
             "content": "<p><strong>Stimule la circulation sanguine pour soulager la fatigue, les douleurs et la sensation de jambes lourdes.</strong><br/><br/>Vous restez <strong>léger, actif et plein d’énergie</strong> toute la journée.<br/><strong>Idéal au travail, en voyage ou à la maison  pour un confort qui ne vous lâche pas.</strong></p>",
             "link_text": "Acheter maintenant",
-            "link_url": "shopify://products/nomad-slip",
+            "link_url": "shopify://products/nomad™-chaussettes-de-compression-larges-avancees-pour-soulager-la-douleur",
             "background": "#faf8f5",
             "background_gradient": "",
             "text_color": "#1a1a1a",
@@ -146,41 +146,6 @@
         "background_gradient": "",
         "text_color": "#faf8f5",
         "text_gradient": ""
-      }
-    },
-    "media_with_text_BQjxkJ": {
-      "type": "media-with-text",
-      "blocks": {
-        "image_ERJWHg": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/sdm_1.png",
-            "media_width": 50,
-            "media_position": "end",
-            "text_position": "place-self-center-start text-start",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "Unmatched All-Day Comfort – Crafted for Your Every Step",
-            "content": "<p>Feel the <strong>comfort</strong> with every step. Our <strong>flexible design</strong> reduces joint pressure and eases discomfort from conditions like arthritis. The <strong>cushioned sole</strong> promotes a <strong>natural stride</strong>, boosts circulation, and supports your feet all day long. <strong>Nomad Slip clogs</strong> offer the <strong>perfect fit</strong>, from work to play.</p>",
-            "link_text": "Acheter maintenant",
-            "link_url": "shopify://products/nomad-slip",
-            "background": "#faf8f5",
-            "background_gradient": "",
-            "text_color": "#1a1a1a",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_ERJWHg"
-      ],
-      "settings": {
-        "full_width": false,
-        "alternate_media_position": false,
-        "spacing": "small"
       }
     },
     "faq_xtiDpM": {
@@ -246,7 +211,7 @@
         "support_hours": "",
         "answer_time": "SOULAGEMENT A CHAQUE PAS.",
         "button_text": "Acheter maintenant",
-        "button_url": "shopify://products/nomad-slip",
+        "button_url": "shopify://products/nomad™-chaussettes-de-compression-larges-avancees-pour-soulager-la-douleur",
         "text_position": "center",
         "background": "",
         "background_gradient": "",
@@ -265,7 +230,6 @@
     "testimonials_mTWwYr",
     "media_with_text_yJbGLt",
     "scrolling-text",
-    "media_with_text_BQjxkJ",
     "faq_xtiDpM"
   ]
 }
