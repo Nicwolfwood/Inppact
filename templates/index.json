@@ -98,6 +98,21 @@
         "testimonial_card_text_color": ""
       }
     },
+    "scrolling-text": {
+      "type": "scrolling-text",
+      "settings": {
+        "full_width": true,
+        "text": "2 ACHETES + 2 OFFERTES",
+        "text_size": "large",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 6,
+        "background": "#1a1a1a",
+        "background_gradient": "",
+        "text_color": "#faf8f5",
+        "text_gradient": ""
+      }
+    },
     "media_with_text_yJbGLt": {
       "type": "media-with-text",
       "blocks": {
@@ -131,21 +146,6 @@
         "full_width": false,
         "alternate_media_position": false,
         "spacing": "small"
-      }
-    },
-    "scrolling-text": {
-      "type": "scrolling-text",
-      "settings": {
-        "full_width": true,
-        "text": "2 ACHETES + 2 OFFERTES",
-        "text_size": "large",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 6,
-        "background": "#1a1a1a",
-        "background_gradient": "",
-        "text_color": "#faf8f5",
-        "text_gradient": ""
       }
     },
     "faq_xtiDpM": {
@@ -228,8 +228,8 @@
   "order": [
     "image_with_text_overlay_aMReqK",
     "testimonials_mTWwYr",
-    "media_with_text_yJbGLt",
     "scrolling-text",
+    "media_with_text_yJbGLt",
     "faq_xtiDpM"
   ]
 }
