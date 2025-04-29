@@ -115,7 +115,7 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/clogs-787228.png",
-        "mobile_image": "shopify://shop_images/clogsbenef.png",
+        "mobile_image": "shopify://shop_images/chaussettbenefTEL.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -129,7 +129,7 @@
         "heading_AFkGPF": {
           "type": "heading",
           "settings": {
-            "text": "Comfort and Protection in Every Step",
+            "text": "La différence ? NOMAD.",
             "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
@@ -155,7 +155,7 @@
         "allow_transparent_header": false,
         "autoplay": true,
         "video_size": "auto",
-        "video": "shopify://files/videos/SEBATVIDEO.mp4",
+        "video": "shopify://files/videos/tkecherrrrrVIDEO.mp4",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
