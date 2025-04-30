@@ -165,6 +165,19 @@
     "multi_column_4XVVyk": {
       "type": "multi-column",
       "blocks": {
+        "item_CmRVeA": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Aviclassic4.png",
+            "column_size": "3",
+            "title": "Karine D.",
+            "heading_tag": "h4",
+            "content": "<p>Franchement, je ne pensais pas dire ça d'une paire de chaussettes de compression… mais je les adore. Elles sont <strong>hyper simples à mettre et à enlever</strong>, je ne galère pas du tout. Il y a <strong>assez de place pour les pieds</strong>, je ne me sens pas serrée du tout.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_gBCEP3": {
           "type": "item",
           "settings": {
@@ -173,19 +186,6 @@
             "title": "Claire L.",
             "heading_tag": "h4",
             "content": "<p><strong>J’adore</strong> ces chaussettes, <strong>faciles </strong>à enfiler, à retirer, et<strong> super confortables</strong> toute la journée. Elles offrent le même niveau de <strong>soutien</strong> que des chaussettes de compression médicales, je les recommande à 110%! </p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_CmRVeA": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/AviTkecherr2.png",
-            "column_size": "3",
-            "title": "Karine D.",
-            "heading_tag": "h4",
-            "content": "<p>Franchement, je ne pensais pas dire ça d'une paire de chaussettes de compression… mais je les adore. Elles sont <strong>hyper simples à mettre et à enlever</strong>, je ne galère pas du tout. Il y a <strong>assez de place pour les pieds</strong>, je ne me sens pas serrée du tout.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -245,8 +245,8 @@
         }
       },
       "block_order": [
-        "item_gBCEP3",
         "item_CmRVeA",
+        "item_gBCEP3",
         "item_8X34Nj",
         "item_bN4NRV",
         "item_yYQcjq",
