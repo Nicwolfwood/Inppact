@@ -50,7 +50,7 @@
         "message_mXEV8D"
       ],
       "settings": {
-        "enable_sticky": true,
+        "enable_sticky": false,
         "autoplay": false,
         "cycle_speed": 6,
         "text_size": "text-xs",
