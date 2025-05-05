@@ -159,12 +159,13 @@
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
-        "autoplay": false,
+        "autoplay": true,
         "video_size": "auto",
+        "video": "shopify://files/videos/tkecherrVIDEO.mp4",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "multi_column_aV6Xgk": {
@@ -419,6 +420,7 @@
         "item_LbcwV3": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/snaptik_7498856202139356438_hd.mp4",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -431,6 +433,7 @@
         "item_8YdNA3": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/snaptik_7498818897341074710_hd.mp4",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -443,6 +446,7 @@
         "item_qTfBtD": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/snaptik_7498821167017577750_hd.mp4",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
