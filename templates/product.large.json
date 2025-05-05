@@ -548,6 +548,88 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "media_with_text_fWGF9X": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_AQVNih": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/chossetpageprodu.png",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Confort et soulagement toute la journée",
+            "content": "<p><strong>La plupart des chaussettes de compression serrent trop fort… et empirent la douleur.</strong><br/><br/>Chez Nomad™, on fait les choses autrement.<br/>On a conçu une compression <strong>douce, efficace et pensée pour les mollets larges</strong>.<br/><br/>👉 <strong>Aucun blocage, juste du confort et du soulagement.</strong></p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#faf8f5",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "image_MrDmNj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/3.webp",
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Faciles à mettre, simples à retirer",
+            "content": "<p><strong>Mettre des chaussettes ne devrait jamais être une galère.</strong><br/>Les chaussettes Nomad™ sont faites en <strong>tissu ultra-extensible</strong> pour <strong>s’enfiler facilement, sans effort</strong>.</p><p><br/>Portez-les le matin, sentez la différence : <strong>moins de douleur</strong>, <strong>moins de gonflements</strong>, <strong>plus d’énergie toute la journée</strong>.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#faf8f5",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "image_Qabnd6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/GELB.webp",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Favorise une bonne circulation sanguine",
+            "content": "<p><strong>Une bonne circulation sanguine est essentielle pour garder des jambes jeunes et en bonne santé.</strong><br/><br/>Nos chaussettes favorisent un <strong>retour veineux efficace vers le cœur</strong>, ce qui aide à <strong>prévenir les accumulations de sang et de liquide dans les jambes</strong>.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#faf8f5",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_AQVNih",
+        "image_MrDmNj",
+        "image_Qabnd6"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "small"
+      }
     }
   },
   "order": [
@@ -561,6 +643,7 @@
     "main",
     "tabs_W4RY8Q",
     "multi_column_zQTqen",
-    "faq_6GXntT"
+    "faq_6GXntT",
+    "media_with_text_fWGF9X"
   ]
 }
