@@ -28,13 +28,6 @@
             "url": ""
           }
         },
-        "message": {
-          "type": "message",
-          "settings": {
-            "text": "🛒 Aujourd’hui seulement : -10% en plus dans votre panier!",
-            "url": ""
-          }
-        },
         "message_mXEV8D": {
           "type": "message",
           "settings": {
@@ -46,7 +39,6 @@
       "block_order": [
         "message_MiLbtm",
         "message_yLm7XN",
-        "message",
         "message_mXEV8D"
       ],
       "settings": {
