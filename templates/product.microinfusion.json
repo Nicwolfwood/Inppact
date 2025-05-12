@@ -509,10 +509,10 @@
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
+            "mobile_text_position": "place-self-start text-start",
             "desktop_column_span": 2,
-            "desktop_row_span": 2,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-center-start sm:text-start",
             "background": "#000000",
             "background_gradient": "",
             "text_color": "#ffffff",
@@ -569,11 +569,9 @@
             "overlay_opacity": 0
           }
         },
-        "video_TmLGVW": {
-          "type": "video",
+        "image_HfcjJY": {
+          "type": "image",
           "settings": {
-            "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "show_video_controls": false,
             "title": "Promote your products",
             "heading_tag": "h4",
             "link_url": "",
@@ -592,9 +590,11 @@
             "overlay_opacity": 0
           }
         },
-        "image_HfcjJY": {
-          "type": "image",
+        "video_TmLGVW": {
+          "type": "video",
           "settings": {
+            "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "show_video_controls": false,
             "title": "Promote your products",
             "heading_tag": "h4",
             "link_url": "",
@@ -618,8 +618,8 @@
         "video_L3jfW7",
         "video_3eUx3r",
         "video_ePff8Y",
-        "video_TmLGVW",
-        "image_HfcjJY"
+        "image_HfcjJY",
+        "video_TmLGVW"
       ],
       "name": "Media grid",
       "settings": {
