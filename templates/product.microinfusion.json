@@ -9,56 +9,6 @@
  */
 {
   "sections": {
-    "main": {
-      "type": "main-product",
-      "blocks": {
-        "title": {
-          "type": "title",
-          "settings": {
-            "heading_tag": "h2"
-          }
-        },
-        "price": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
-        "buy_buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": false,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "title",
-        "price",
-        "buy_buttons"
-      ],
-      "settings": {
-        "full_width": true,
-        "show_fixed_add_to_cart": true,
-        "desktop_media_width": 55,
-        "desktop_media_layout": "carousel_thumbnails_bottom",
-        "mobile_media_size": "expanded",
-        "mobile_carousel_control": "floating_dots",
-        "enable_video_autoplay": false,
-        "enable_video_looping": true,
-        "enable_image_zoom": true,
-        "max_image_zoom_level": 3,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "input_background": "rgba(0,0,0,0)",
-        "input_text_color": ""
-      }
-    },
     "image_with_text_overlay_qgCjii": {
       "type": "image-with-text-overlay",
       "blocks": {
@@ -85,10 +35,314 @@
         "overlay_color": "#000000",
         "overlay_opacity": 30
       }
+    },
+    "logo_list_igdXGL": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_gjUcqH": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_PkEEfV": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_cHrhtW": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_nC4JB3": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_gjUcqH",
+        "logo_PkEEfV",
+        "logo_cHrhtW",
+        "logo_nC4JB3"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "Vu sur:",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 4,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "rich_text_zak9E8": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_PWhWCA": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi choisir Lunea",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_PWhWCA"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_LmGddd": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "rich_text_F8jcR4": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_tzgwqr": {
+          "type": "heading",
+          "settings": {
+            "text": "Titre vidéo",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_tzgwqr"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "video_zmFTfq": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "auto",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "multi_column_zCBKwb": {
+      "type": "multi-column",
+      "blocks": {
+        "item_JWMQTW": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Kb8E4g": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_8FM8F9": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_eJ8jBf": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_ac33Hc": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_YVBWAa": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_JWMQTW",
+        "item_Kb8E4g",
+        "item_8FM8F9",
+        "item_eJ8jBf",
+        "item_ac33Hc",
+        "item_YVBWAa"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Nos clientes en parlent le mieux",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "liquid_PW34wa": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style> .rating { display: flex; align-items: center; font-size: 1.3rem; white-space: nowrap; font-family: Arial, sans-serif; } .stars { display: flex; } .star { color: #20EC8B; margin-right: -2px; } .rating-text { margin-left: 6px; font-size: 0.9rem; color: black; font-weight: normal; } </style> <div class=\"rating\"> <div class=\"stars\"> <span class=\"star\">&#9733;</span> <span class=\"star\">&#9733;</span> <span class=\"star\">&#9733;</span> <span class=\"star\">&#9733;</span> <span class=\"star\">&#9733;</span> </div> <div class=\"rating-text\"> 4.7/5 · 25,000+ Visages Rajeunis </div> </div>"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "liquid_tdQJCR": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .urgency-banner {\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    background-color: #ffcccc;\n    border-radius: 8px;\n    padding: 6px 12px;\n    margin: 10px auto;\n    max-width: 320px;\n    font-size: 13px;\n    color: #AD0000;\n    font-weight: 500;\n  }\n\n  .urgency-banner .blink {\n    animation: blink-animation 1.2s steps(2, start) infinite;\n    color: red;\n    margin-right: 8px;\n    font-size: 12px;\n  }\n\n  @keyframes blink-animation {\n    to { visibility: hidden; }\n  }\n\n  @media screen and (max-width: 480px) {\n    .urgency-banner {\n      font-size: 12px;\n      padding: 5px 10px;\n    }\n  }\n</style>\n\n<div class=\"urgency-banner\">\n  <div class=\"blink\">&#9679;</div>\n  <div id=\"stock-message\">Only a few left in stock.</div>\n</div>\n\n<script>\n  // Fonction pour générer un nombre aléatoire entre 2 et 9\n  function getRandomStockNumber() {\n    return Math.floor(Math.random() * (9 - 2 + 1)) + 2;  // Génère un nombre entre 2 et 9\n  }\n\n  // Met à jour le message avec un nombre aléatoire et affiche \"Only X pairs left in stock\"\n  document.getElementById('stock-message').innerText = \"Seulement \" + getRandomStockNumber() + \" kits restants.\";\n</script>"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "liquid_PW34wa",
+        "title",
+        "price",
+        "liquid_tdQJCR",
+        "buy_buttons"
+      ],
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_bottom",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
     }
   },
   "order": [
     "image_with_text_overlay_qgCjii",
+    "logo_list_igdXGL",
+    "rich_text_zak9E8",
+    "image_with_text_overlay_LmGddd",
+    "rich_text_F8jcR4",
+    "video_zmFTfq",
+    "multi_column_zCBKwb",
     "main"
   ]
 }
