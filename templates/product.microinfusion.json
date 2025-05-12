@@ -412,6 +412,65 @@
         "heading_gradient": ""
       }
     },
+    "multi_column_7rLr64": {
+      "type": "multi-column",
+      "blocks": {
+        "item_VA8LU4": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_JFe8rP": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Kcbx6n": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_VA8LU4",
+        "item_JFe8rP",
+        "item_Kcbx6n"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Essayée une fois… adoptée pour toujours",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "rich_text_HUEhHj": {
       "type": "rich-text",
       "blocks": {
@@ -830,6 +889,7 @@
     "multi_column_zCBKwb",
     "main",
     "tabs_R4WgnD",
+    "multi_column_7rLr64",
     "rich_text_HUEhHj",
     "media_grid_p7YB9T",
     "multi_column_ibwf93",
