@@ -22,9 +22,9 @@
     "footer_background": "#faf8f5",
     "footer_text_color": "#1a1a1a",
     "dialog_background": "#faf8f5",
-    "primary_button_background": "#1a1a1a",
+    "primary_button_background": "#00cae0",
     "primary_button_text_color": "#ffffff",
-    "secondary_button_background": "#1a1a1a",
+    "secondary_button_background": "#00cae0",
     "secondary_button_text_color": "#faf8f5",
     "product_card_background": "#faf8f5",
     "product_card_text_color": "#1a1a1a",
@@ -42,19 +42,7 @@
     "cart_free_shipping_threshold": "0",
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
-    "content_for_index": [],
-    "blocks": {
-      "14060646107696862457": {
-        "type": "shopify://apps/judge-me-reviews/blocks/judgeme_core/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-        "disabled": false,
-        "settings": {}
-      },
-      "13223602749629917723": {
-        "type": "shopify://apps/kaching-cart/blocks/embed/7705621e-3c0f-4e97-9d29-5c8528b19fb7",
-        "disabled": false,
-        "settings": {}
-      }
-    }
+    "content_for_index": []
   },
   "presets": {
     "Sound": {
