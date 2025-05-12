@@ -354,6 +354,63 @@
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
+    },
+    "tabs_R4WgnD": {
+      "type": "tabs",
+      "blocks": {
+        "tab_pCNcqN": {
+          "type": "tab",
+          "settings": {
+            "title": "Spécifications",
+            "content": "<p><strong>Contenu de chaque kit:</strong></p><ul><li><strong>1 mois</strong>: 1 embouts stériles + 2 flacons de sérum (2 traitements)</li><li><strong>2 mois</strong>: 2 embouts stériles + 4 flacons de sérum (4 traitements)</li><li><strong>3 mois</strong>: 3 embouts stériles + 6 flacons de sérum (6 traitements)<br/><br/>Chaque kit de micro-infusion est conçu pour un nombre précis de traitements, afin de garantir efficacité et sécurité.<br/><br/>Les embouts à micro-aiguilles (0,5 mm de profondeur) sont <strong>stériles et réutilisables jusqu’à trois fois</strong>.<br/><br/>Un nettoyage soigneux entre chaque utilisation assure une <strong>hygiène parfaite</strong> et des <strong>résultats visibles à chaque application</strong>.<br/><br/><br/><br/><br/><br/></li></ul>",
+            "page": ""
+          }
+        },
+        "tab_qAU8Wd": {
+          "type": "tab",
+          "settings": {
+            "title": "Composition",
+            "content": "<p>Le sérum <strong>Peptide LUNEA</strong> est formulé à partir d’<strong>ingrédients hautement qualitatifs</strong>, soigneusement sélectionnés pour <strong>hydrater intensément</strong>, <strong>repulper visiblement</strong> et <strong>revitaliser la peau en profondeur</strong>.<br/></p><ul><li><strong>Acide hyaluronique (Sodium Hyaluronate)</strong>: Hydrate intensément la peau et aide à maintenir son élasticité.</li><li><strong>Collagène hydrolysé (Hydrolyzed Collagen)</strong>: Contribue à renforcer la structure de la peau et à réduire l’apparence des rides et ridules.</li><li><strong>Oligopeptide-1</strong>: Stimule la régénération cellulaire pour une peau plus ferme et éclatante.</li><li><strong>Acétyl Hexapeptide-8</strong>: Cet actif est apprécié pour son effet relaxant sur la peau. Il contribue à lisser l’apparence des traits et à offrir un teint visiblement plus reposé et éclatant.</li><li><strong>Carnosine</strong>: Puissant antioxydant qui protège la peau contre le stress oxydatif et le vieillissement prématuré.</li><li><strong>Dipotassium Glycyrrhizinate</strong>: Apaisant et anti-inflammatoire, idéal pour calmer les rougeurs et les irritations.</li><li><strong>Éthylène Glycol</strong>: Améliore la texture du sérum et facilite son absorption par la peau.</li></ul><p><br/>Grâce à sa formule innovante, le sérum <strong>Peptide LUNEA</strong> stimule naturellement la production de <strong>collagène</strong> et <strong>d’élastine</strong>, pour une peau <strong>plus ferme</strong>, <strong>plus lisse</strong> et visiblement <strong>rajeunie</strong>.</p>",
+            "page": ""
+          }
+        },
+        "tab_p3fpg9": {
+          "type": "tab",
+          "settings": {
+            "title": "Est-ce sans douleur?",
+            "content": "<p>Grâce à ses <strong>micro-aiguilles ultra-fines de 0,05 mm</strong>, aussi fines qu’un cheveu, l’application est <strong>quasiment imperceptible</strong> et totalement <strong>indolore</strong>. La plupart des utilisateurs ne ressentent qu’un <strong>léger picotement</strong>.</p><p>Notre système de <strong>micro-infusion</strong> est <strong>approuvé par des dermatologues</strong>, <strong>stérile</strong>, <strong>facile à utiliser</strong> et conçu dans le respect total de la peau : <strong>sans tests sur les animaux</strong>, <strong>sans sulfates</strong> et <strong>sans parabènes</strong>.</p><p>Quant à notre sérum, il est formulé avec des <strong>ingrédients haut de gamme</strong>, rigoureusement sélectionnés selon les <strong>normes de qualité les plus strictes</strong>, pour une efficacité maximale <strong>sans aucun risque d’effet indésirable</strong>.</p><p>✔<strong>Sans parfum</strong></p><p>✔<strong>Non testé sur les animaux</strong></p><p>✔<strong>Sans BHA</strong></p><p>✔<strong>Sans parabènes</strong></p>",
+            "page": ""
+          }
+        },
+        "tab_YafeMq": {
+          "type": "tab",
+          "settings": {
+            "title": "Essayez-le 30 jours gratuitement",
+            "content": "<p><strong>Essayez sans risque pendant 30 jours.</strong><br/>Si vous n’êtes pas entièrement satisfait, vous pouvez nous les retourner et recevoir un <strong>remboursement complet</strong>.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_pCNcqN",
+        "tab_qAU8Wd",
+        "tab_p3fpg9",
+        "tab_YafeMq"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "text_alignment": "left",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
@@ -364,6 +421,7 @@
     "rich_text_F8jcR4",
     "video_zmFTfq",
     "multi_column_zCBKwb",
-    "main"
+    "main",
+    "tabs_R4WgnD"
   ]
 }
