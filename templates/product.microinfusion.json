@@ -182,11 +182,11 @@
         "item_JWMQTW": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avis1.png",
+            "image": "shopify://shop_images/avis1_1.png",
             "column_size": "3",
             "title": "Juliette E.",
             "heading_tag": "h4",
-            "content": "<p>\"Dès la première application, mes ridules se sont estompées. En un mois, mes lèvres sont plus lisses et repulpées.\"</p>",
+            "content": "<p>\"Les pattes d’oie étaient mon plus grand complexe. En quelques semaines, elles ont presque disparu ! Je le recommande à toute ma famille.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -208,11 +208,11 @@
         "item_8FM8F9": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avis3_1.png",
+            "image": "shopify://shop_images/avis3_2.png",
             "column_size": "3",
             "title": "Stephanie G.",
             "heading_tag": "h4",
-            "content": "<p>\"Ma peau a totalement changé depuis que je l’utilise. Les résultats sont rapides et c’est devenu un incontournable de ma routine beauté.\"</p>",
+            "content": "<p>\"Dès la première application, mes ridules se sont estompées. En un mois, mes lèvres sont plus lisses et repulpées.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
