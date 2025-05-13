@@ -652,9 +652,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Column title",
+            "title": "Peptides de collagène",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Favorisent la production de collagène pour une peau plus ferme et plus souple, atténuent les rides et les ridules, améliorent la texture et renforcent la structure de la peau.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -664,9 +664,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Column title",
+            "title": "Élastine",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Complément naturel du collagène, elle renforce l’élasticité de la peau, prévient le relâchement et maintient un teint ferme, lisse et protégé.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -676,9 +676,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Column title",
+            "title": "Acide hyaluronique",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Hydrate en profondeur, répare et régénère la peau. Repulpe visiblement et lisse rides et ridules.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -688,9 +688,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Column title",
+            "title": "Glycérine",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Renforce la barrière cutanée, adoucit et protège des irritations et de la sécheresse.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -700,9 +700,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Column title",
+            "title": "Huile de fleur d’oranger",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Unifie le teint, protège des agressions extérieures et calme les irritations.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -712,9 +712,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Column title",
+            "title": "Squalane",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Nourrit sans effet gras, protège de la déshydratation et redonne éclat à la peau.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
