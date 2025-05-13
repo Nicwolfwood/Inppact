@@ -42,28 +42,32 @@
         "logo_gjUcqH": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/MARIECLAAAAAIRE.png",
+            "logo_width": 80,
             "link": ""
           }
         },
         "logo_PkEEfV": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/ELLLELELELELELELELELELE.png",
+            "logo_width": 80,
             "link": ""
           }
         },
         "logo_cHrhtW": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/stile.png",
+            "logo_width": 80,
             "link": ""
           }
         },
         "logo_nC4JB3": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/logowomenshealth_1.png",
+            "logo_width": 80,
             "link": ""
           }
         }
