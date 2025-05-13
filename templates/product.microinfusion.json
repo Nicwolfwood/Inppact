@@ -429,6 +429,7 @@
         "item_VA8LU4": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/snaptik_7503854529893485846_hd.mp4",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -441,10 +442,11 @@
         "item_JFe8rP": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/snaptik_7503855879712738582_hd.mp4",
             "column_size": "3",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -453,10 +455,11 @@
         "item_Kcbx6n": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/snaptik_7503854625511066902_hd.mp4",
             "column_size": "3",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
