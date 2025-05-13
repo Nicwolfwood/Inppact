@@ -903,6 +903,119 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "media_with_text_hTnB7A": {
+      "type": "media-with-text",
+      "blocks": {
+        "video_KAViUt": {
+          "type": "video",
+          "settings": {
+            "video": "shopify://files/videos/bdb45a2c67fa4300852782da101d83d9.mp4",
+            "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "autoplay": true,
+            "media_width": 30,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "I.",
+            "content": "<p>Ouvrez le flacon et remplissez-le avec le sérum. Refermez sans forcer pour une application optimale.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#b3f3f9",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "video_URxbEp": {
+          "type": "video",
+          "settings": {
+            "video": "shopify://files/videos/b367039c35d94025a2fecf920241dd0d.mp4",
+            "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "autoplay": true,
+            "media_width": 30,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "II.",
+            "content": "<p>Retournez le flacon et laissez-le à l’envers pendant 2 minutes afin que les micro-aiguilles s’imprègnent parfaitement du sérum.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#b3f3f9",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "video_KjVGFM": {
+          "type": "video",
+          "settings": {
+            "video": "shopify://files/videos/f4b718da87294f56afa3e8eb6ec779f3 (1).mp4",
+            "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "autoplay": true,
+            "media_width": 30,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "III.",
+            "content": "<p>Tapotez délicatement votre peau (visage, lèvres, cou, etc.). Répétez 2 à 3 fois pour des résultats visibles plus rapidement</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#b3f3f9",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "video_pFLUKg": {
+          "type": "video",
+          "settings": {
+            "video": "shopify://files/videos/3d97aa01947b428c8e7aca007340811b.mp4",
+            "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "autoplay": true,
+            "media_width": 30,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "IV.",
+            "content": "<p>Massez l’excédent de sérum sur votre peau et laissez-le agir toute la nuit. Pour une routine complète, appliquez ensuite vos soins habituels.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#b3f3f9",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "video_KAViUt",
+        "video_URxbEp",
+        "video_KjVGFM",
+        "video_pFLUKg"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "small"
+      }
     }
   },
   "order": [
@@ -919,6 +1032,7 @@
     "rich_text_HUEhHj",
     "multi_column_ibwf93",
     "comparison_table_fRfaaQ",
-    "faq_y6ACWN"
+    "faq_y6ACWN",
+    "media_with_text_hTnB7A"
   ]
 }
