@@ -651,6 +651,7 @@
         "item_RpUnig": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/image_3_2.jpg",
             "column_size": "3",
             "title": "Peptides de collagène",
             "heading_tag": "h4",
@@ -663,6 +664,7 @@
         "item_jhPwgY": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/elastyn.png",
             "column_size": "3",
             "title": "Élastine",
             "heading_tag": "h4",
@@ -675,6 +677,7 @@
         "item_tdBE7K": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/image_3_4.png",
             "column_size": "3",
             "title": "Acide hyaluronique",
             "heading_tag": "h4",
@@ -687,6 +690,7 @@
         "item_hktMqe": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/image_3_1_5ea823f0-28a1-4a44-b024-a4b075a9f83e.png",
             "column_size": "3",
             "title": "Glycérine",
             "heading_tag": "h4",
@@ -699,6 +703,7 @@
         "item_wjmEH7": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/image_3_3_6a2d7223-431d-47af-b8c9-10953fb00c55.png",
             "column_size": "3",
             "title": "Huile de fleur d’oranger",
             "heading_tag": "h4",
@@ -711,6 +716,7 @@
         "item_8t3ewa": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/squardo.png",
             "column_size": "3",
             "title": "Squalane",
             "heading_tag": "h4",
