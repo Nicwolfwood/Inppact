@@ -182,10 +182,11 @@
         "item_JWMQTW": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/avis1.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Juliette E.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>\"Dès la première application, mes ridules se sont estompées. En un mois, mes lèvres sont plus lisses et repulpées.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -194,10 +195,11 @@
         "item_Kb8E4g": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/avis2.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Marie H.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>\"Aucune douleur ! En 4 applications, ma peau est plus ferme, lisse et lumineuse. J’ai vraiment l’impression d’avoir rajeuni.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -206,10 +208,11 @@
         "item_8FM8F9": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/avis3_1.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Stephanie G.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>\"Ma peau a totalement changé depuis que je l’utilise. Les résultats sont rapides et c’est devenu un incontournable de ma routine beauté.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -218,10 +221,11 @@
         "item_eJ8jBf": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/avis4.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Josephine B.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>\"À 71 ans, je pensais que mes rides au décolleté étaient irréversibles… Ce produit a fait des merveilles !\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -230,10 +234,11 @@
         "item_ac33Hc": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/avis5.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Valerie T.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>\"Je croyais que seul le laser pouvait m’aider… Mais avec la micro-infusion, ma peau est enfin uniforme et lumineuse et tout ça, sans douleur !\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -242,10 +247,11 @@
         "item_YVBWAa": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/avis6.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Isabelle S.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>\"Incroyable ! Mes pattes d’oie se sont estompées bien plus vite que je ne l’imaginais, et l’application est d’une simplicité déconcertante.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
