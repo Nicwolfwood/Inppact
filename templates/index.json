@@ -28,7 +28,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/MICRObaniiere.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -82,7 +81,7 @@
         "full_width": true,
         "stack_testimonials": false,
         "subheading": "",
-        "title": "Plus de 25,000+ Jambes Conquises",
+        "title": "Plus de 25,000+ Visages Rajeunis",
         "content": "",
         "link_url": "",
         "link_text": "",
@@ -116,7 +115,6 @@
         "image_9eRTYV": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/14c8166a3f7f4c078d404aa1215e11c3.gif",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center-start text-start",
