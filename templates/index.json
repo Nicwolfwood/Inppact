@@ -28,6 +28,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/tkecherDarrbaniiere_4.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -41,6 +42,7 @@
         "testimonial_nFGwz7": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/1000022631.jpg",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -52,6 +54,7 @@
         "testimonial_iYHtaF": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/1000011469_1_1.jpg",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -63,6 +66,7 @@
         "testimonial_TR4LPX": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/nikmok.png",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -81,7 +85,7 @@
         "full_width": true,
         "stack_testimonials": false,
         "subheading": "",
-        "title": "Plus de 25,000+ Visages Rajeunis",
+        "title": "Plus de 25,000+ Jambes Soulagées",
         "content": "",
         "link_url": "",
         "link_text": "",
@@ -98,12 +102,12 @@
       "type": "scrolling-text",
       "settings": {
         "full_width": true,
-        "text": "OFFRE DE PÂQUES -50%",
+        "text": "OFFRE DE PÂQUES: 2 + 2 OFFERTE 🎁",
         "text_size": "large",
         "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 6,
-        "background": "#00cae0",
+        "background": "#1a1a1a",
         "background_gradient": "",
         "text_color": "#faf8f5",
         "text_gradient": ""
