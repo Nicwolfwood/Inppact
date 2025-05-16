@@ -347,6 +347,14 @@
             "page": ""
           }
         },
+        "tab_jnyRiK": {
+          "type": "tab",
+          "settings": {
+            "title": "Mode d'emploi",
+            "content": "<h3><strong>ÉTAPE 1 — Dosage</strong></h3><p>Prélevez <strong>1 ml</strong> du concentré LUNEA à l’aide de la pipette fournie.<br/><br/>Cette dose quotidienne suffit pour soutenir la production naturelle de collagène et révéler votre éclat intérieur.</p><p>🧪 <strong>Dose recommandée : 1 ml par jour</strong><br/><br/>🚫 <strong>Ne pas dépasser 2 ml par jour</strong></p><h3><strong>ÉTAPE 2 — Mélangez</strong></h3><p>Versez la dose dans un grand verre d’<strong>eau fraîche</strong>, de <strong>jus</strong> ou un <strong>smoothie</strong>.<br/><br/>Mélangez quelques secondes pour bien répartir les actifs.</p><h3><strong>ÉTAPE 3 — Consommez</strong></h3><p>Buvez en <strong>une seule prise quotidienne</strong>, de préférence <strong>le matin</strong> à jeun ou avant votre routine beauté.<br/><br/>Une prise régulière favorise des résultats visibles semaine après semaine.</p><h3><strong>ÉTAPE 4 — Résultats</strong></h3><p>Une peau plus lumineuse, plus rebondie et visiblement revitalisée.<br/><br/>La majorité des utilisatrices observent des premiers effets <strong>dès 3 à 4 semaines</strong>.</p>",
+            "page": ""
+          }
+        },
         "tab_TwRCkY": {
           "type": "tab",
           "settings": {
@@ -367,6 +375,7 @@
       "block_order": [
         "tab_4XPrNE",
         "tab_KNPU4t",
+        "tab_jnyRiK",
         "tab_TwRCkY",
         "tab_dHWUej"
       ],
@@ -392,6 +401,19 @@
           "type": "item",
           "settings": {
             "video": "shopify://files/videos/snaptik_7505062314643672342_hd.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_GADXfA": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/reviewsGOUTTE.mp4",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -430,6 +452,7 @@
       },
       "block_order": [
         "item_LbcwV3",
+        "item_GADXfA",
         "item_8YdNA3",
         "item_qTfBtD"
       ],
