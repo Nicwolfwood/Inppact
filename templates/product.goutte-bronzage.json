@@ -173,7 +173,7 @@
           "settings": {
             "image": "shopify://shop_images/AVISGOUTTE3.png",
             "column_size": "3",
-            "title": "Christophe L.",
+            "title": "Justine L.",
             "heading_tag": "h4",
             "content": "<p><strong>J’étais sceptique au début, mais les résultats sont bien réels. </strong> Ma peau a gagné en <strong>éclat</strong>, mon teint est <strong>plus uniforme</strong> et le <strong>glow est visible</strong> dès la première semaine.</p>",
             "link_url": "",
@@ -184,11 +184,11 @@
         "item_kmjBn4": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Aviclassic4_1.png",
+            "image": "shopify://shop_images/AVISGOUTTE4.png",
             "column_size": "3",
-            "title": "Floriane B.",
+            "title": "Florine T.",
             "heading_tag": "h4",
-            "content": "<p><strong>Impressionnant !</strong> Ces chaussettes sont vraiment confortables et maintiennent mes pieds bien soutenus. Elles sont parfaites pour améliorer la <strong>circulation</strong> et je les porte toute la journée sans ressentir de gêne.</p>",
+            "content": "<p><strong>Je ne pensais pas que ça marcherait…</strong><br/> En quelques jours, mon teint est devenu <strong>plus doré</strong>, <strong>plus uniforme</strong> et <strong>super naturel</strong>.<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -197,11 +197,11 @@
         "item_RJirAf": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Aviclassic5.png",
+            "image": "shopify://shop_images/AVIS5_1.png",
             "column_size": "3",
-            "title": "Bastien M.",
+            "title": "Marina H.",
             "heading_tag": "h4",
-            "content": "<p><strong>Vraiment top !</strong> Confortables, pratiques, et efficaces pour <strong>améliorer</strong> la circulation. Je les porte toute la journée sans problème et mes jambes sont beaucoup moins fatiguées.</p>",
+            "content": "<p><strong>J’ai pris un peu le soleil avec les gouttes et le résultat est dingue !</strong> Mon bronzage est <strong>plus intense</strong>, <strong>plus uniforme</strong>, et il <strong>dure beaucoup plus longtemps</strong>.<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -210,11 +210,11 @@
         "item_37PKFJ": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Avitkecherrr_1.png",
+            "image": "shopify://shop_images/AVIS6_1.png",
             "column_size": "3",
-            "title": "Charlotte W.",
+            "title": "Julia F.",
             "heading_tag": "h4",
-            "content": "<p><strong>Excellente surprise !</strong> Elles sont faciles à enfiler, très <strong>confortables</strong>, et je sens mes jambes plus<strong> légères </strong>dès la première journée. Je ne pensais pas voir une différence aussi vite.</p>",
+            "content": "<p><strong>Même en vacances, je n’oublie jamais mes gouttes ! </strong>Mon teint reste <strong>doré</strong>, <strong>uniforme</strong>, et mon bronzage <strong>tient toute la saison</strong>.<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -249,7 +249,7 @@
         "liquid_K8ExGK": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style> .rating { display: flex; align-items: center; font-size: 1.3rem; white-space: nowrap; font-family: Arial, sans-serif; } .stars { display: flex; } .star { color: #20EC8B; margin-right: -2px; } .rating-text { margin-left: 6px; font-size: 0.9rem; color: black; font-weight: normal; } </style> <div class=\"rating\"> <div class=\"stars\"> <span class=\"star\">&#9733;</span> <span class=\"star\">&#9733;</span> <span class=\"star\">&#9733;</span> <span class=\"star\">&#9733;</span> <span class=\"star\">&#9733;</span> </div> <div class=\"rating-text\"> 4.7/5 · 25,000+ Jambes Soulagées </div> </div>"
+            "liquid": "<style> .rating { display: flex; align-items: center; font-size: 1.3rem; white-space: nowrap; font-family: Arial, sans-serif; } .stars { display: flex; } .star { color: #20EC8B; margin-right: -2px; } .rating-text { margin-left: 6px; font-size: 0.9rem; color: black; font-weight: normal; } </style> <div class=\"rating\"> <div class=\"stars\"> <span class=\"star\">&#9733;</span> <span class=\"star\">&#9733;</span> <span class=\"star\">&#9733;</span> <span class=\"star\">&#9733;</span> <span class=\"star\">&#9733;</span> </div> <div class=\"rating-text\"> 4.7/5 · 25,000+ Peaux Sublimées </div> </div>"
           }
         },
         "title": {
