@@ -579,6 +579,261 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "comparaison_pjwgzA": {
+      "type": "COMPARAISON",
+      "blocks": {
+        "list_item_fycCrm": {
+          "type": "list_item",
+          "settings": {
+            "text": "Scientifiquement prouvé"
+          }
+        },
+        "list_item_Le9K7j": {
+          "type": "list_item",
+          "settings": {
+            "text": "Boost collagène"
+          }
+        },
+        "list_item_iQQWE9": {
+          "type": "list_item",
+          "settings": {
+            "text": "Eclat naturel"
+          }
+        },
+        "list_item_jnc33U": {
+          "type": "list_item",
+          "settings": {
+            "text": "Teint naturel"
+          }
+        },
+        "list_item_HzTUDb": {
+          "type": "list_item",
+          "settings": {
+            "text": "Boost mélanine"
+          }
+        },
+        "table_row_cRr9gb": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Routine express",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "cross",
+            "third_column": "",
+            "third_column_icon": "none",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_4HwLKX": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Sans UV",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "cross",
+            "third_column": "",
+            "third_column_icon": "none",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_dJg68H": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Vegan",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "cross",
+            "third_column": "",
+            "third_column_icon": "none",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_ePRmjm": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Longue durée",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "cross",
+            "third_column": "",
+            "third_column_icon": "none",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_mDjgCp": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Soins de la peau",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "cross",
+            "third_column": "",
+            "third_column_icon": "none",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_Bxe4eK": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Goût délicieux",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "cross",
+            "third_column": "",
+            "third_column_icon": "none",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "list_item_fycCrm",
+        "list_item_Le9K7j",
+        "list_item_iQQWE9",
+        "list_item_jnc33U",
+        "list_item_HzTUDb",
+        "table_row_cRr9gb",
+        "table_row_4HwLKX",
+        "table_row_dJg68H",
+        "table_row_ePRmjm",
+        "table_row_mDjgCp",
+        "table_row_Bxe4eK"
+      ],
+      "name": "SS - Comparison Table #6",
+      "settings": {
+        "body_gap": 32,
+        "body_gap_mobile": 32,
+        "content_horizontal_align": "start",
+        "content_horizontal_align_mobile": "center",
+        "heading": "<p><em>Pourquoi choisir </em><em><strong>NOMAD.</strong></em></p>",
+        "heading_custom": false,
+        "heading_font": "din_next_n4",
+        "heading_size": 52,
+        "heading_size_mobile": 32,
+        "heading_height": 150,
+        "text": "",
+        "text_custom": false,
+        "text_font": "din_next_n4",
+        "text_size": 18,
+        "text_size_mobile": 18,
+        "text_height": 150,
+        "text_mt": 4,
+        "list_mt": 50,
+        "list_mt_mobile": 32,
+        "list_gap": 30,
+        "list_gap_mobile": 30,
+        "list_hide_mobile": true,
+        "icon_size": 28,
+        "icon_size_mobile": 28,
+        "icon_margin_right": 16,
+        "list_text_custom": false,
+        "list_text_font": "din_next_n4",
+        "list_text_size": 20,
+        "list_text_size_mobile": 18,
+        "list_text_height": 150,
+        "button": "",
+        "button_url": "",
+        "button_custom": false,
+        "button_font": "din_next_n4",
+        "button_size": 18,
+        "button_size_mobile": 18,
+        "button_height": 100,
+        "button_width": 305,
+        "button_mt": 50,
+        "button_mt_mobile": 32,
+        "button_padding_vertical": 16,
+        "button_padding_vertical_mobile": 16,
+        "button_padding_horizontal": 48,
+        "button_padding_horizontal_mobile": 48,
+        "button_radius": 100,
+        "button_border_thickness": 0,
+        "button_style": "non_outline",
+        "button_position_mobile": "bottom",
+        "table_columns": 2,
+        "table_mt_mobile": 32,
+        "table_column_active": "1",
+        "table_radius": 16,
+        "table_border_thickness": 1,
+        "table_heading_image_size": 100,
+        "table_heading_image_size_mobile": 80,
+        "first_heading": "NOMAD.",
+        "second_heading": "Autres marques",
+        "third_heading": "Third",
+        "four_heading": "Fourth",
+        "table_heading_custom": false,
+        "table_heading_font": "din_next_n4",
+        "table_heading_size": 20,
+        "table_heading_size_mobile": 16,
+        "table_heading_height": 100,
+        "table_heading_align": "center",
+        "table_heading_padding_horizontal": 18,
+        "table_heading_padding_horizontal_mobile": 18,
+        "table_heading_padding_vertical": 18,
+        "table_heading_padding_vertical_mobile": 18,
+        "table_row_padding_horizontal": 14,
+        "table_row_padding_horizontal_mobile": 14,
+        "table_row_padding_vertical": 16,
+        "table_row_padding_vertical_mobile": 16,
+        "table_row_heading_width_mobile": 66,
+        "table_row_heading_custom": false,
+        "table_row_heading_font": "din_next_n4",
+        "table_row_heading_size": 16,
+        "table_row_heading_size_mobile": 16,
+        "table_row_heading_height": 130,
+        "table_row_heading_align": "left",
+        "table_row_text_custom": false,
+        "table_row_text_font": "din_next_n4",
+        "table_row_text_size": 20,
+        "table_row_text_size_mobile": 16,
+        "table_row_text_height": 130,
+        "table_row_text_align": "center",
+        "table_row_image_size": 24,
+        "table_row_image_size_mobile": 24,
+        "heading_color": "#000000",
+        "text_color": "#000000",
+        "icon_color": "#000000",
+        "list_text_color": "#000000",
+        "button_color": "#FFFFFF",
+        "button_hover_color": "#dad0ff",
+        "button_bg_color": "#16142B",
+        "button_bg_hover_color": "#16142B",
+        "button_border_color": "#16142B",
+        "button_border_hover_color": "#16142B",
+        "table_border_color": "#2D2B43",
+        "table_active_border_color": "#DAD0FF",
+        "table_heading_color": "#1A192E",
+        "table_heading_active_color": "#FFFFFF",
+        "table_heading_bg_active_color": "#2D2B43",
+        "table_column_active_bg_color": "#2D2B43",
+        "table_row_heading_color": "#1A192E",
+        "table_row_text_color": "#1A192E",
+        "table_row_active_text_color": "#FFFFFF",
+        "background_color": "#faf8f5",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": false,
+        "content_width": 130,
+        "border_thickness": 0,
+        "lazy": true
+      }
     }
   },
   "order": [
@@ -593,6 +848,7 @@
     "multi_column_zQTqen",
     "faq_6GXntT",
     "media_with_text_fWGF9X",
-    "17472558219b253581"
+    "17472558219b253581",
+    "comparaison_pjwgzA"
   ]
 }
