@@ -129,20 +129,6 @@
     },
     "rich_text_WKaGgn": {
       "type": "rich-text",
-      "blocks": {
-        "heading_FJmAzB": {
-          "type": "heading",
-          "settings": {
-            "text": "Bois. Brille. Répète.",
-            "heading_tag": "h2",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_FJmAzB"
-      ],
       "name": "Rich text",
       "settings": {
         "full_width": true,
@@ -153,32 +139,17 @@
         "text_color": ""
       }
     },
-    "video_U3n8gg": {
-      "type": "video",
-      "name": "Video",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": true,
-        "video_size": "auto",
-        "video": "shopify://files/videos/tkecherrVIDEO.mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "multi_column_aV6Xgk": {
       "type": "multi-column",
       "blocks": {
         "item_YziLnV": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Aviclassic.png",
+            "image": "shopify://shop_images/AVISGOUTTE.png",
             "column_size": "3",
-            "title": "Juliette P.",
+            "title": "Jessica Z.",
             "heading_tag": "h4",
-            "content": "<p><strong>Confort absolu</strong> dès que je les mets. Elles offrent un <strong>soutien parfait</strong> pour mes jambes et sont idéales pour les journées longues. <strong>Vraiment efficace pour soulager la fatigue</strong>. Je les adore !</p>",
+            "content": "<p>Honnêtement, je ne pensais pas qu’un bronzage pouvait venir de l’intérieur… et pourtant ! En deux semaines, mon teint est devenu <strong>naturellement doré</strong>,<strong> sans trace ni UV.</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -265,7 +236,7 @@
         "gap": "medium",
         "text_alignment": "center",
         "subheading": "",
-        "title": "Nos clients en parlent le mieux",
+        "title": "Nos clientes en parlent le mieux",
         "content": "",
         "background": "",
         "background_gradient": "",
@@ -662,7 +633,6 @@
     "rich_text_dACih6",
     "image_with_text_overlay_XncgJH",
     "rich_text_WKaGgn",
-    "video_U3n8gg",
     "multi_column_aV6Xgk",
     "main",
     "tabs_W4RY8Q",
