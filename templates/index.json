@@ -66,7 +66,7 @@
         "testimonial_TR4LPX": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/nikmok.png",
+            "image": "shopify://shop_images/nikmok_1.png",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
