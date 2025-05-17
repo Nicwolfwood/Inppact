@@ -365,8 +365,8 @@
           "type": "tab",
           "settings": {
             "title": "Taille & Entretien",
-            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
-            "page": ""
+            "content": "",
+            "page": "guide-taille-classique"
           }
         },
         "tab_TjjVNz": {
