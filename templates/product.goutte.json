@@ -17,7 +17,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/tkecherDarrbaniiere_3.png",
+        "image": "shopify://shop_images/tanbanniere_1.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -118,8 +118,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Copie_de_benef_tkecherrrrr_BURO.png",
-        "mobile_image": "shopify://shop_images/Copie_de_chaussettbenefTEL.png",
+        "image": "shopify://shop_images/GOUTTEBURO.png",
+        "mobile_image": "shopify://shop_images/benefgoutte_phon.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -143,6 +143,7 @@
       "block_order": [
         "heading_TQBtGd"
       ],
+      "disabled": true,
       "name": "Rich text",
       "settings": {
         "full_width": true,
@@ -155,6 +156,7 @@
     },
     "video_CXFNNk": {
       "type": "video",
+      "disabled": true,
       "name": "Video",
       "settings": {
         "full_width": true,
@@ -174,11 +176,11 @@
         "item_L8njwY": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Aviclassic.png",
+            "image": "shopify://shop_images/AVISGOUTTE.png",
             "column_size": "3",
-            "title": "Axelle T.",
+            "title": "Jessica R.",
             "heading_tag": "h4",
-            "content": "<p><strong>Incroyablement faciles à enfiler</strong>, <em>aucune gêne</em> et <strong>zéro sensation de serrage</strong>. Franchement, je ne pensais pas aimer autant une paire de chaussettes de compression.</p>",
+            "content": "<p>Honnêtement, je ne pensais pas qu’un bronzage pouvait venir de l’intérieur… et pourtant ! En deux semaines, mon teint est devenu <strong>naturellement doré</strong>,<strong> sans trace ni UV.</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -187,11 +189,11 @@
         "item_XJraTe": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/AviTkecherr2.png",
+            "image": "shopify://shop_images/AVISGOUTTE2.png",
             "column_size": "3",
-            "title": "Karine F.",
+            "title": "Carole P.",
             "heading_tag": "h4",
-            "content": "<p><strong>Top confort</strong>, <em>faciles à enfiler</em> et <strong>soutiennent vraiment bien</strong> toute la journée. Bien mieux que d’autres modèles testés, je recommande sans hésiter !</p>",
+            "content": "<p><strong>J’avais peur de finir orange ou avec des taches… mais pas du tout ! </strong>Le bronzage est <strong>progressif</strong>, <strong>naturel</strong>, et s’adapte parfaitement à <strong>mon teint</strong>.<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -200,11 +202,11 @@
         "item_UMgrbh": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Aviclassic2.png",
+            "image": "shopify://shop_images/AVISGOUTTE3.png",
             "column_size": "3",
-            "title": "Justine E.",
+            "title": "Justine L.",
             "heading_tag": "h4",
-            "content": "<p><strong>Je les adore : ultra confortables</strong>, <em>chaleureuses</em>, et <strong>ma circulation s’est vraiment améliorée</strong>. Je les porte même la nuit !</p>",
+            "content": "<p><strong>J’étais sceptique au début, mais les résultats sont bien réels. </strong> Ma peau a gagné en <strong>éclat</strong>, mon teint est <strong>plus uniforme</strong> et le <strong>glow est visible</strong> dès la première semaine.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -213,11 +215,11 @@
         "item_kt9gQ3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Aviclassic4_1.png",
+            "image": "shopify://shop_images/AVISGOUTTE4.png",
             "column_size": "3",
-            "title": "Elena K.",
+            "title": "Florine T.",
             "heading_tag": "h4",
-            "content": "<p>Excellente surprise : <strong>bon maintien</strong> sans compression, elles tiennent toute la journée et mes jambes sont beaucoup moins <strong>fatiguées</strong> le soir.</p>",
+            "content": "<p><strong>Je ne pensais pas que ça marcherait…</strong><br/> En quelques jours, mon teint est devenu <strong>plus doré</strong>, <strong>plus uniforme</strong> et <strong>super naturel</strong>.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -226,11 +228,11 @@
         "item_9hQMPK": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Aviclassic5.png",
+            "image": "shopify://shop_images/AVIS5_1.png",
             "column_size": "3",
-            "title": "Josephine A.",
+            "title": "Marina H.",
             "heading_tag": "h4",
-            "content": "<p><strong>Après en avoir essayé plein, c’est la seule paire qui m’a vraiment convaincue.</strong> Elles sont <em>hyper confortables</em>, <em>ne glissent pas</em>, et <strong>je sens clairement que ma circulation s’est améliorée</strong>.</p>",
+            "content": "<p><strong>J’ai pris un peu le soleil avec les gouttes et le résultat est dingue !</strong> Mon bronzage est <strong>plus intense</strong>, <strong>plus uniforme</strong>, et il <strong>dure beaucoup plus longtemps</strong>.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -239,11 +241,11 @@
         "item_3LjQGB": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Avitkecherrr_1.png",
+            "image": "shopify://shop_images/AVIS6_1.png",
             "column_size": "3",
-            "title": "Isabelle N.",
+            "title": "Julie F.",
             "heading_tag": "h4",
-            "content": "<p><strong>Vraiment bluffée par ces chaussettes</strong> : <em>ultra confortables</em>, <em>faciles à mettre</em>, et <strong>mes jambes sont beaucoup plus légères</strong> le soir.</p>",
+            "content": "<p><strong>Même en vacances, je n’oublie jamais mes gouttes ! </strong>Mon teint reste <strong>doré</strong>, <strong>uniforme</strong>, et mon bronzage <strong>tient toute la saison</strong>.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -265,7 +267,7 @@
         "gap": "medium",
         "text_alignment": "center",
         "subheading": "",
-        "title": "Nos clients en parlent le mieux",
+        "title": "Nos clientes en parlent le mieux",
         "content": "",
         "background": "",
         "background_gradient": "",
@@ -278,7 +280,7 @@
         "liquid_nYEH9C": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style> .rating { display: flex; align-items: center; font-size: 1.3rem; white-space: nowrap; font-family: Arial, sans-serif; } .stars { display: flex; } .star { color: #20EC8B; margin-right: -2px; } .rating-text { margin-left: 6px; font-size: 0.9rem; color: black; font-weight: normal; } </style> <div class=\"rating\"> <div class=\"stars\"> <span class=\"star\">&#9733;</span> <span class=\"star\">&#9733;</span> <span class=\"star\">&#9733;</span> <span class=\"star\">&#9733;</span> <span class=\"star\">&#9733;</span> </div> <div class=\"rating-text\"> 4.7/5 · 25,000+ Jambes Soulagées </div> </div>"
+            "liquid": "<style> .rating { display: flex; align-items: center; font-size: 1.3rem; white-space: nowrap; font-family: Arial, sans-serif; } .stars { display: flex; } .star { color: #20EC8B; margin-right: -2px; } .rating-text { margin-left: 6px; font-size: 0.9rem; color: black; font-weight: normal; } </style> <div class=\"rating\"> <div class=\"stars\"> <span class=\"star\">&#9733;</span> <span class=\"star\">&#9733;</span> <span class=\"star\">&#9733;</span> <span class=\"star\">&#9733;</span> <span class=\"star\">&#9733;</span> </div> <div class=\"rating-text\"> 4.7/5 · 25,000+ Peaux Sublimées </div> </div>"
           }
         },
         "title": {
