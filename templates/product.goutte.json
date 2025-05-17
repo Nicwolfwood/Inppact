@@ -359,19 +359,27 @@
           "type": "tab",
           "settings": {
             "title": "Spécifications",
-            "content": "<p>Profitez d’un confort optimal et d’un soutien efficace tout au long de la journée grâce à nos chaussettes de compression conçues pour améliorer la santé de vos jambes.</p><ul><li><strong>Améliore la circulation sanguine</strong></li><li><strong>Réduit les gonflements, la fatigue et les douleurs</strong></li><li><strong>Aide à prévenir les problèmes de jambes à long terme</strong></li><li><strong>Maintien ciblé du pied jusqu’au mollet</strong></li><li><strong>Faciles à enfiler et agréables à porter au quotidien</strong></li></ul><p><strong>Matériaux :</strong><br/><br/>Nos chaussettes sont fabriquées à partir d’un mélange de <strong>nylon</strong> et de <strong>spandex</strong>, garantissant une matière <strong>douce, résistante et ultra confortable</strong>.</p>",
+            "content": "<p>Notre formule combine des <strong>actifs naturels puissants</strong> pour <strong>sublimer votre peau</strong> et encourager un <strong>bronzage éclatant et sain</strong> :</p><p><strong>Bêta-carotène, lutéine, zéaxanthine, acide ascorbique, L-tyrosine, chlorhydrate de pyridoxine (pyridoxine), gluconate de cuivre, cyanocobalamine, chélate d'acide aminé de fer, palmitate de rétinol, succinate d'acide D-alpha-tocophérylique, sorbate de potassium, produits de soja.</strong></p>",
             "page": ""
           }
         },
         "tab_dreDpJ": {
           "type": "tab",
           "settings": {
-            "title": "Taille & Entretien",
-            "content": "",
-            "page": "guide-taille-classique"
+            "title": "Comment ça marche?",
+            "content": "<p>Découvrez les <strong>gouttes autobronzantes naturelles</strong> qui subliment votre peau de l’intérieur. Ajoutez quelques gouttes à votre boisson favorite chaque jour, et laissez la magie opérer.<br/></p><ul><li><strong>Boost naturel de mélanine</strong> : des ingrédients 100 % naturels qui réveillent votre bronzage, sans produits chimiques nocifs.</li><li><strong>Glow sans soleil ni UV</strong> : un teint uniforme et lumineux, sans exposer votre peau aux rayons dangereux.</li><li><strong>Bronzage sur-mesure</strong> : dosez selon votre envie, plus de gouttes pour un teint intense, moins pour un effet léger.</li><li><strong>Soin nourrissant</strong> : une formule végétale qui prend soin de votre peau, pour un teint radieux et sain.<br/><br/><br/><br/><br/><br/><br/><br/></li></ul>",
+            "page": ""
           }
         },
         "tab_TjjVNz": {
+          "type": "tab",
+          "settings": {
+            "title": "Mode d'emploi",
+            "content": "<p><strong>Essayez sans risque pendant 30 jours.</strong><br/>Si vous n’êtes pas entièrement satisfait, vous pouvez nous les retourner et recevoir un <strong>remboursement complet</strong>.</p>",
+            "page": ""
+          }
+        },
+        "tab_BhjRCh": {
           "type": "tab",
           "settings": {
             "title": "Essayez-le 30 jours gratuitement",
@@ -392,6 +400,7 @@
         "tab_3KRUrh",
         "tab_dreDpJ",
         "tab_TjjVNz",
+        "tab_BhjRCh",
         "tab_gy3amW"
       ],
       "name": "Tabs",
@@ -450,12 +459,25 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_67U7N4": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
         "item_6ynzRY",
         "item_j8fW3A",
-        "item_94wVkE"
+        "item_94wVkE",
+        "item_67U7N4"
       ],
       "name": "Multi-column",
       "settings": {
