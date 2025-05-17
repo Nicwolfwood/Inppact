@@ -630,15 +630,6 @@
     },
     "1747472400ecd8705f": {
       "type": "apps",
-      "blocks": {
-        "judge_me_reviews_review_widget_W7VkKT": {
-          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_review_widget_W7VkKT"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
