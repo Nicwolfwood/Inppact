@@ -499,43 +499,43 @@
         "item_aefABb": {
           "type": "item",
           "settings": {
-            "title": "Quelle est la différence entre Nomad et les autres marques ?",
-            "content": "<p>Pour faire <strong>simple : </strong>on a créé des chaussettes de compression que vous <strong>aurez </strong><em><strong>envie</strong></em><strong> de porter.</strong><br/>Contrairement aux autres marques souvent <strong>trop serrées</strong>, <strong>difficiles à enfiler</strong> ou tout simplement <strong>inconfortables</strong>, les nôtres sont conçues pour être <strong>faciles à mettre</strong>, <strong>agréables à porter</strong>, tout en offrant un <strong>soulagement efficace</strong>.</p>"
+            "title": "Comment ça marche?",
+            "content": "<p>Nos gouttes autobronzantes stimulent la production de mélanine et hydratent les cellules pour un hâle naturel et lumineux, directement de l’intérieur.<br/><br/>Ajoutez simplement quelques gouttes à votre boisson quotidienne pour un bronzage uniforme, sans exposition aux UV.</p>"
           }
         },
         "item_ppPbFc": {
           "type": "item",
           "settings": {
-            "title": "Est-ce que les chaussettes sont faciles à enfiler, même avec une mobilité réduite ?",
-            "content": "<p>Oui ! Nos chaussettes de compression sont conçues pour être faciles à enfiler.<br/>Elles sont douces, extensibles et spécialement pensées pour les mollets larges.</p>"
+            "title": "Combien de temps avant de voir les résultats?",
+            "content": "<p>La plupart des utilisateurs commencent à voir un hâle progressif après <strong>5 à 7 jours</strong> d’utilisation régulière.<br/>Les résultats peuvent varier selon le type de peau et la quantité de gouttes utilisées.</p>"
           }
         },
         "item_LFqkE8": {
           "type": "item",
           "settings": {
-            "title": "Combien de temps puis-je porter les chaussettes ?",
-            "content": "<p> Vous pouvez porter nos chaussettes de compression toute la journée, généralement entre 8 et 12 heures.</p><p>Elles sont conçues pour un usage prolongé, en offrant <strong>soutien et confort</strong>, que vous soyez <strong>debout</strong>, <strong>assis longtemps</strong>, ou en <strong>mouvement</strong>.<br/><br/>Il est recommandé de les retirer avant de dormir, <strong>sauf avis contraire d’un professionnel de santé.</strong></p>"
+            "title": "Comment utiliser les gouttes autobronzantes?",
+            "content": "<p>Ajoutez la quantité recommandée de gouttes à votre boisson préférée , eau, jus ou smoothie, une fois par jour pour des résultats optimaux.</p>"
           }
         },
         "item_VipwyT": {
           "type": "item",
           "settings": {
-            "title": "Puis-je porter ces chaussettes pour les longs vols?",
-            "content": "<p>Oui, nos chaussettes de compression sont parfaites pour les long vols !<br/><br/>Elles aident à <strong>améliorer la circulation</strong>, <strong>réduire les gonflements</strong> et <strong>prévenir l’inconfort</strong> lié aux longues périodes en position assise.</p>"
+            "title": "Les gouttes autobronzantes sont-elles sûres?",
+            "content": "<p>Oui ! Nos gouttes autobronzantes sont composées d’ingrédients 100 % naturels et formulées pour être sûres à consommer quotidiennement.<br/>En cas de doute, consultez toujours votre professionnel de santé.</p>"
           }
         },
         "item_zqERYf": {
           "type": "item",
           "settings": {
-            "title": "Les chaussettes sont-elles serrées ? Quel niveau de compression vais-je ressentir ?",
-            "content": "<p>Nos chaussettes de compression utilisent une compression graduée de 15 à 20 mmHg, offrant le parfait équilibre entre maintien et soulagement, sans jamais être trop serrées.<br/><br/>Cette compression douce et progressive assure un soutien constant de la cheville jusqu’au mollet, ce qui les rend agréables à porter toute la journée, tout en réduisant efficacement les gonflements et l’inconfort.</p>"
+            "title": "Est-il sûr pour tous les types de peau?",
+            "content": "<p>Oui, nos produits sont testés par des laboratoires tiers et sont sûrs pour tous les types de peau !</p>"
           }
         },
         "item_GcXeG4": {
           "type": "item",
           "settings": {
-            "title": "Puis-je porter ces chaussettes si je souffre de diabète, de varices ou d’œdèmes ?",
-            "content": "<p>Oui ! Nos chaussettes de compression sont conçues pour aider à soulager les symptômes liés au diabète, aux varices et aux œdèmes.<br/><br/>Elles offrent une compression douce et graduée qui permet d’améliorer la circulation sanguine, de réduire les gonflements et de soulager l’inconfort.</p>"
+            "title": "A-t-il des effet secondaire?",
+            "content": "<p>Non, il n'y a aucun effet secondaire. Notre produit est formulé avec des ingrédients sûrs et a été rigoureusement testé pour garantir une utilisation sans risque.</p>"
           }
         }
       },
