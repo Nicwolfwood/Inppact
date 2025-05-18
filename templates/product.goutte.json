@@ -424,7 +424,7 @@
         "item_6ynzRY": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/snaptik_7498856202139356438_hd.mp4",
+            "video": "shopify://files/videos/reviewsGOUTTE.mp4",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -437,7 +437,7 @@
         "item_j8fW3A": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/snaptik_7498818897341074710_hd.mp4",
+            "video": "shopify://files/videos/snaptik_7505062314643672342_hd.mp4",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -450,7 +450,7 @@
         "item_94wVkE": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/snaptik_7498821167017577750_hd.mp4",
+            "video": "shopify://files/videos/snaptik_7505062814663413014_hd.mp4",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -463,10 +463,11 @@
         "item_67U7N4": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/snaptik_7505063487207509270_hd.mp4",
             "column_size": "3",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
