@@ -175,9 +175,49 @@
     "multi_column_YaVpEr": {
       "type": "multi-column",
       "blocks": {
+        "item_xhTLzq": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Avis5.png",
+            "column_size": "3",
+            "title": "David A.",
+            "heading_tag": "h4",
+            "content": "<p><em>\"Avant, mes pieds baignaient dans la sueur dès 10h du matin. Odeurs infectes, mycoses à répétition... Avec Nomad, pieds secs toute la journée. Ma copine peut enfin supporter mes chaussures dans l'entrée !\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_zF96GU": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Avis6.png",
+            "column_size": "3",
+            "title": "Steve W.",
+            "heading_tag": "h4",
+            "content": "<p><em>\"Sceptique au début : comment des chaussures si légères peuvent protéger ? Un collègue a laissé tomber une poutrelle sur les miennes. Orteil intact, pas mal du tout. J'ai commandé une deuxième paire le jour même.\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_gyqymx": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/CACACACA.png",
+            "column_size": "3",
+            "title": "Arthur H.",
+            "heading_tag": "h4",
+            "content": "<p><em>\"Mes collègues se moquaient de mes 'godasses de sécurité'. Maintenant ils me demandent où j'ai acheté mes 'sneakers'. Le patron n'a rien dit quand il a vu que c'étaient des vraies chaussures de sécurité.\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_EbMPJY": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/aVIS1-_1.webp",
             "column_size": "3",
             "title": "Chris K.",
             "heading_tag": "h4",
@@ -190,6 +230,7 @@
         "item_BLbtkx": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Avis2_2.png",
             "column_size": "3",
             "title": "Bastien M.",
             "heading_tag": "h4",
@@ -202,46 +243,11 @@
         "item_kgrUz8": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Avis3_2.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Pierre F.",
             "heading_tag": "h4",
             "content": "<p><em>\"Finies les galères avec les lacets qui lâchent en plein boulot. Un clic le matin et c'est parti pour la journée. Le soir, un geste et je suis libéré. Ma routine a complètement changé.\"</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_xhTLzq": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p><em>\"Avant, mes pieds baignaient dans la sueur dès 10h du matin. Odeurs infectes, mycoses à répétition... Avec les Nomad, pieds secs toute la journée. Ma copine peut enfin supporter mes chaussures dans l'entrée !\"</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_zF96GU": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p><em>\"Sceptique au début : comment des chaussures si légères peuvent protéger ? Un collègue a laissé tomber une poutrelle sur les miennes. Orteil intact, pas mal du tout. J'ai commandé une deuxième paire le jour même.\"</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_gyqymx": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p><em>\"Mes collègues se moquaient de mes 'godasses de sécurité'. Maintenant ils me demandent où j'ai acheté mes 'sneakers'. Le patron n'a rien dit quand il a vu que c'étaient des vraies chaussures de sécurité.\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -249,12 +255,12 @@
         }
       },
       "block_order": [
-        "item_EbMPJY",
-        "item_BLbtkx",
-        "item_kgrUz8",
         "item_xhTLzq",
         "item_zF96GU",
-        "item_gyqymx"
+        "item_gyqymx",
+        "item_EbMPJY",
+        "item_BLbtkx",
+        "item_kgrUz8"
       ],
       "name": "Multi-column",
       "settings": {
