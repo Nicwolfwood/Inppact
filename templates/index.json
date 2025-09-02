@@ -41,6 +41,7 @@
         "logo_rbtELi": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo_1bf42560-9a59-4d98-bdb1-b784fcf42ce4_2.svg",
             "logo_width": 120,
             "link": ""
           }
@@ -48,6 +49,7 @@
         "logo_rzkk67": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/logo-seo_1_1.avif",
             "logo_width": 120,
             "link": ""
           }
@@ -55,6 +57,7 @@
         "logo_zjdaTq": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo.svg_1_1.avif",
             "logo_width": 120,
             "link": ""
           }
@@ -62,6 +65,7 @@
         "logo_imzBem": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Design_sans_titre_11.webp",
             "logo_width": 120,
             "link": ""
           }
@@ -77,10 +81,10 @@
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "Logo list",
+        "title": "Vu sur :",
         "content": "",
         "text_alignment": "center",
-        "items_per_row": 5,
+        "items_per_row": 4,
         "background": "",
         "background_gradient": "",
         "text_color": "",
