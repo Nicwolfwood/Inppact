@@ -310,14 +310,6 @@
             "page": ""
           }
         },
-        "tab_igWzbV": {
-          "type": "tab",
-          "settings": {
-            "title": "Tab 2",
-            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
-            "page": ""
-          }
-        },
         "tab_QXytEe": {
           "type": "tab",
           "settings": {
@@ -329,7 +321,7 @@
         "tab_Jt9V4q": {
           "type": "tab",
           "settings": {
-            "title": "Conformité & Certifications",
+            "title": "90 jours satisfait ou remboursé",
             "content": "<p>Nous sommes convaincus de la qualité de nos produits et offrons donc <strong>90 jours satisfait ou remboursé</strong> sur tous nos articles.</p><p>Si vous n'êtes pas entièrement satisfait de votre produit pendant cette période, vous pouvez nous le retourner très simplement. Nous vous rembourserons intégralement, sans poser de questions.</p>",
             "page": ""
           }
@@ -337,15 +329,14 @@
         "tab_gJfHWD": {
           "type": "tab",
           "settings": {
-            "title": "Tab",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "Service Client 7J/7",
+            "content": "<p>Notre service client est à votre écoute 7J/7.<br/></p><p>Vous pouvez nous contacter par en utilisant l'onglet \"Contact\" de notre boutique ou par email à l'adresse <strong>contact@try-nomad.com</strong></p>",
             "page": ""
           }
         }
       },
       "block_order": [
         "tab_X3imMd",
-        "tab_igWzbV",
         "tab_QXytEe",
         "tab_Jt9V4q",
         "tab_gJfHWD"
