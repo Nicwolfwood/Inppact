@@ -440,6 +440,235 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "rich_text_QjCfRg": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_pUfUwy": {
+          "type": "heading",
+          "settings": {
+            "text": "Le style que tu adores, la protection que tu mérites",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_iFcftf": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Avec les Nomad S3 Pro, fini le choix entre confort, style et protection.<br/>Enfin des chaussures de sécurité que tu portes volontiers après le boulot.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_pUfUwy",
+        "richtext_iFcftf"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "media_grid_t7JqLj": {
+      "type": "media-grid",
+      "blocks": {
+        "image_RGMLtc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/FTI.webp",
+            "title": "",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_RGMLtc"
+      ],
+      "name": "Media grid",
+      "settings": {
+        "full_width": true,
+        "reduce_width": false,
+        "desktop_row_height": 290,
+        "mobile_row_height": 150,
+        "background": "",
+        "background_gradient": ""
+      }
+    },
+    "rich_text_Me3nyy": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_VJywjj": {
+          "type": "heading",
+          "settings": {
+            "text": "Ajustement parfait en 5 secondes grâce au système rotatif Nomad™",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_cXVaTF": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Système rotatif Nomad™ : ajustement parfait en 5 secondes. Fini les lacets qui lâchent.Plus besoin de te pencher, un simple geste et c'est parti.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_VJywjj",
+        "richtext_cXVaTF"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "media_grid_Xdgk3m": {
+      "type": "media-grid",
+      "blocks": {
+        "image_VA3Epd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/FTI2.webp",
+            "title": "",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_VA3Epd"
+      ],
+      "name": "Media grid",
+      "settings": {
+        "full_width": true,
+        "reduce_width": false,
+        "desktop_row_height": 290,
+        "mobile_row_height": 150,
+        "background": "",
+        "background_gradient": ""
+      }
+    },
+    "custom_liquid_CHiwjr": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<p style=\"text-align: center\">Write or copy/paste Liquid code</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_Ndm4Df": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_qTNPjC": {
+          "type": "heading",
+          "settings": {
+            "text": "Protection maximale à chaque pas, conçu pour ton quotidien",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_KwEkDP": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Look sneaker, protection blindée : embout acier + semelle Kevlar anti-perforation.<br/>Certification complète pour tous les environnements de travail. Zéro compromis.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_qTNPjC",
+        "richtext_KwEkDP"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "media_grid_6MePXJ": {
+      "type": "media-grid",
+      "blocks": {
+        "image_HCtQW8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/FT3.webp",
+            "title": "",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_HCtQW8"
+      ],
+      "name": "Media grid",
+      "settings": {
+        "full_width": true,
+        "reduce_width": false,
+        "desktop_row_height": 290,
+        "mobile_row_height": 150,
+        "background": "",
+        "background_gradient": ""
+      }
     }
   },
   "order": [
@@ -452,6 +681,13 @@
     "featured_product_hfTJUz",
     "tabs_VPc8cE",
     "rich_text_BQgLCJ",
-    "multi_column_nEqNGk"
+    "multi_column_nEqNGk",
+    "rich_text_QjCfRg",
+    "media_grid_t7JqLj",
+    "rich_text_Me3nyy",
+    "media_grid_Xdgk3m",
+    "custom_liquid_CHiwjr",
+    "rich_text_Ndm4Df",
+    "media_grid_6MePXJ"
   ]
 }
