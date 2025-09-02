@@ -179,9 +179,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Column title",
+            "title": "Chris K.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><em>\"Après 12h debout sur du béton, j'avais les pieds en compote et le dos en vrac. Depuis que j'ai mes Nomad, je rentre chez moi en forme. Ma femme n'en revient pas que je puisse encore jouer avec les enfants le soir.\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -191,9 +191,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Column title",
+            "title": "Bastien M.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><em>\"J'ai porté des chaussures de sécurité pendant 15 ans. Des vraies enclumes qui me cassaient les chevilles. Les Nomad, c'est comme si j'avais des baskets aux pieds. Je cours presque sur le chantier maintenant !\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -205,7 +205,43 @@
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><em>\"Finies les galères avec les lacets qui lâchent en plein boulot. Un clic le matin et c'est parti pour la journée. Le soir, un geste et je suis libéré. Ma routine a complètement changé.\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_xhTLzq": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p><em>\"Avant, mes pieds baignaient dans la sueur dès 10h du matin. Odeurs infectes, mycoses à répétition... Avec les Nomad, pieds secs toute la journée. Ma copine peut enfin supporter mes chaussures dans l'entrée !\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_zF96GU": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p><em>\"Sceptique au début : comment des chaussures si légères peuvent protéger ? Un collègue a laissé tomber une poutrelle sur les miennes. Orteil intact, pas mal du tout. J'ai commandé une deuxième paire le jour même.\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_gyqymx": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p><em>\"Mes collègues se moquaient de mes 'godasses de sécurité'. Maintenant ils me demandent où j'ai acheté mes 'sneakers'. Le patron n'a rien dit quand il a vu que c'étaient des vraies chaussures de sécurité.\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -215,7 +251,10 @@
       "block_order": [
         "item_EbMPJY",
         "item_BLbtkx",
-        "item_kgrUz8"
+        "item_kgrUz8",
+        "item_xhTLzq",
+        "item_zF96GU",
+        "item_gyqymx"
       ],
       "name": "Multi-column",
       "settings": {
