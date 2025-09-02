@@ -305,8 +305,8 @@
         "tab_X3imMd": {
           "type": "tab",
           "settings": {
-            "title": "Tab 1",
-            "content": "<p>Use this text to share information about your brand with your customers.</p>",
+            "title": "Caractéristiques",
+            "content": "<p>Nos chaussures de sécurité sont conçues avec des matériaux haut de gamme ultra-résistants, une semelle intermédiaire renforcée Kevlar et des inserts mesh respirants. Cette combinaison assure une résistance maximale, un confort optimal et une protection fiable contre la perforation, l'humidité et la surchauffe – même lors de shifts de 12h.</p><p><strong>✓ Confort absolu grâce à la mousse à mémoire de forme</strong></p><p><strong>✓ Durabilité extrême avec des matériaux blindés</strong></p><p><strong>✓ Régulation thermique parfaite – zéro transpiration</strong></p><p><strong>✓ Sécurité à chaque pas – anti-perforation & embout acier renforcé</strong></p>",
             "page": ""
           }
         },
@@ -321,8 +321,24 @@
         "tab_QXytEe": {
           "type": "tab",
           "settings": {
-            "title": "Tab 3",
-            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "title": "Conformité & Certifications",
+            "content": "<p>Nos chaussures de sécurité S3 sont certifiées selon la norme européenne <strong>EN ISO 20345:2011</strong> et répondent aux exigences suivantes :</p><p><strong>- S3 :</strong> talon fermé, embout de protection, anti-perforation, semelle à crampons<br/><strong>- SRC :</strong> antidérapant testé sur sols en céramique et acier avec détergents et lubrifiants<br/><strong>- P :</strong> semelle intermédiaire anti-perforation (pénétration)<br/><strong>- FO :</strong> semelle résistante à l'huile et à l'essence<br/><strong>- DGUV 112-191 :</strong> compatible avec les semelles orthopédiques</p><p>Tous nos modèles sont certifiés par des organismes de contrôle indépendants et régulièrement vérifiés.</p>",
+            "page": ""
+          }
+        },
+        "tab_Jt9V4q": {
+          "type": "tab",
+          "settings": {
+            "title": "Conformité & Certifications",
+            "content": "<p>Nous sommes convaincus de la qualité de nos produits et offrons donc <strong>90 jours satisfait ou remboursé</strong> sur tous nos articles.</p><p>Si vous n'êtes pas entièrement satisfait de votre produit pendant cette période, vous pouvez nous le retourner très simplement. Nous vous rembourserons intégralement, sans poser de questions.</p>",
+            "page": ""
+          }
+        },
+        "tab_gJfHWD": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
             "page": ""
           }
         }
@@ -330,7 +346,9 @@
       "block_order": [
         "tab_X3imMd",
         "tab_igWzbV",
-        "tab_QXytEe"
+        "tab_QXytEe",
+        "tab_Jt9V4q",
+        "tab_gJfHWD"
       ],
       "name": "Tabs",
       "settings": {
