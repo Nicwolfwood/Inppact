@@ -17,28 +17,28 @@
         "message_MiLbtm": {
           "type": "message",
           "settings": {
-            "text": "2 + 2 OFFERTE 🎁",
+            "text": "OFFRE DE RENTRÉE -50%",
             "url": ""
           }
         },
         "message_AEEAqb": {
           "type": "message",
           "settings": {
-            "text": "3 + 5 OFFERTE 🎁",
+            "text": "1 + 1 GRATUIT !",
             "url": ""
           }
         },
         "message_yLm7XN": {
           "type": "message",
           "settings": {
-            "text": "Satisfait ou remboursé",
+            "text": "LIVRAISON OFFERTE",
             "url": ""
           }
         },
         "message_mXEV8D": {
           "type": "message",
           "settings": {
-            "text": "Livraison offerte",
+            "text": "STOCK LIMITÉ !",
             "url": ""
           }
         }
