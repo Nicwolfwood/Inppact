@@ -100,7 +100,7 @@
         "heading_yxUjAk": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
+            "text": "Comment Nomad transforme tes journées",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
@@ -669,6 +669,32 @@
         "background": "",
         "background_gradient": ""
       }
+    },
+    "rich_text_Qn4G9a": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_z8KPdB": {
+          "type": "heading",
+          "settings": {
+            "text": "ICI TABLEAU",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_z8KPdB"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -688,6 +714,7 @@
     "media_grid_Xdgk3m",
     "custom_liquid_CHiwjr",
     "rich_text_Ndm4Df",
-    "media_grid_6MePXJ"
+    "media_grid_6MePXJ",
+    "rich_text_Qn4G9a"
   ]
 }
