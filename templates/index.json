@@ -102,7 +102,7 @@
         "heading_yxUjAk": {
           "type": "heading",
           "settings": {
-            "text": "Comment Nomad transforme tes journées?",
+            "text": "Warum Auris unverzichtbar ist",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
@@ -130,6 +130,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/ChiffonBenefice.webp",
+        "mobile_image": "shopify://shop_images/ChiffonBenefice.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -143,7 +145,7 @@
         "heading_wnNqdz": {
           "type": "heading",
           "settings": {
-            "text": "Nos clients en parlent le mieux:",
+            "text": "Unsere Kunden sagen es am besten:",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
@@ -152,7 +154,7 @@
         "liquid_FG9Trz": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div style=\"font-family: DIN NEXT, DIN NEXT; background-color: #f9f9f9; padding: 18px; max-width: 400px; border-radius: 12px;\">\n  <div style=\"display: flex; align-items: center; gap: 10px;\">\n    <span style=\"font-size: 20px; font-weight: bold;\">Excellent</span>\n    <span style=\"font-size: 22px; font-weight: bold;\">4.8 / 5</span>\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/2922/8163/files/stars-5.svg?v=1750621001\" alt=\"5 étoiles Trustpilot\" width=\"105\" height=\"22\">\n  </div>\n  <div style=\"margin-top: 10px; font-size: 17px; display: flex; align-items: center;\">\n    <span> basé sur <span style=\"font-weight: bold; text-decoration: underline;\">+3 494</span> avis</span>\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/2922/8163/files/Trustpilot_logo_1.png?v=1750617153\" alt=\"Trustpilot\" width=\"90\" style=\"margin-left: 8px;\">\n  </div>\n</div>"
+            "liquid": "<div style=\"font-family: DIN NEXT, DIN NEXT; background-color: #f9f9f9; padding: 18px; max-width: 400px; border-radius: 12px;\">\n  <div style=\"display: flex; align-items: center; gap: 10px;\">\n    <span style=\"font-size: 20px; font-weight: bold;\">Super</span>\n    <span style=\"font-size: 22px; font-weight: bold;\">4.8 / 5</span>\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/2922/8163/files/stars-5.svg?v=1750621001\" alt=\"5 étoiles Trustpilot\" width=\"105\" height=\"22\">\n  </div>\n  <div style=\"margin-top: 10px; font-size: 17px; display: flex; align-items: center;\">\n    <span> aus <span style=\"font-weight: bold; text-decoration: underline;\">+3 494</span> bewertungen</span>\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/2922/8163/files/Trustpilot_logo_1.png?v=1750617153\" alt=\"Trustpilot\" width=\"90\" style=\"margin-left: 8px;\">\n  </div>\n</div>"
           }
         }
       },
