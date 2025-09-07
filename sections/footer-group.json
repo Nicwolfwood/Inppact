@@ -14,45 +14,35 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "newsletter": {
-          "type": "newsletter",
+        "text_aWMAYN": {
+          "type": "text",
           "settings": {
-            "image_width": 150,
-            "heading_size": "h3",
-            "title": "Rejoins la team Nomad",
-            "content": "<p>Accédez en exclusivité à nos nouvelles collections, offres spéciales et bien plus encore.</p>"
+            "title": "Brauchen Sie Hilfe ?",
+            "content": "<p>Kontaktieren Sie uns über unser Kontaktformular auf der Kontaktseite oder per E-Mail an<strong> </strong><a href=\"mailto:contact@tryauris.com\"><strong>contact@tryauris.com</strong></a></p><p><strong>Öffnungszeiten</strong>: Mo bis Fr von 9 bis 12 Uhr und von 14 bis 18 Uhr / Sa und So von 10 bis 12 Uhr</p>",
+            "enable_follow_on_shop": false
           }
         },
         "links": {
+          "type": "links",
+          "settings": {
+            "menu": "n-tzliche-links",
+            "show_menu_title": true,
+            "menu_title": ""
+          }
+        },
+        "links_QiCVet": {
           "type": "links",
           "settings": {
             "menu": "footer",
             "show_menu_title": true,
             "menu_title": ""
           }
-        },
-        "text_aWMAYN": {
-          "type": "text",
-          "settings": {
-            "title": "CONTACTEZ-NOUS",
-            "content": "<p>Nous sommes là pour vous aider ! Notre équipe est disponible et vous répondra dans les 12h : <strong>contact@movenomad.com</strong> </p>",
-            "enable_follow_on_shop": false
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "title": "NOMAD.",
-            "content": "<p><strong>SOULAGEMENT A CHAQUE PAS.</strong></p>",
-            "enable_follow_on_shop": false
-          }
         }
       },
       "block_order": [
-        "newsletter",
-        "links",
         "text_aWMAYN",
-        "text"
+        "links",
+        "links_QiCVet"
       ],
       "settings": {
         "show_social_media": true,
