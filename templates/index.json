@@ -230,6 +230,7 @@
         "item_BLbtkx": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/imgi_5_Manouk2-droogdoek-2-095bc31b-ad19-4ee8-a531-9b088b3379f1-_1-min_720x721_a3a57ba3-9330-4c9c-a42a-37af61bf979d.webp",
             "column_size": "3",
             "title": "Julia M.",
             "heading_tag": "h4",
@@ -331,7 +332,7 @@
       "name": "Featured product",
       "settings": {
         "full_width": true,
-        "product": "1-1-gratuit-nomad®-s3-pro-concues-pour-la-securite-le-confort-toute-la-journee",
+        "product": "auris-mikrofasertuch-xxl",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_bottom",
         "mobile_media_size": "expanded",
