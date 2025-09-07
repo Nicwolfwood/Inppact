@@ -455,6 +455,7 @@
         "item_AEkLMc": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/06191-ezgif.com-video-to-webp-converter.webp",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -467,6 +468,7 @@
         "item_9jbrYC": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ezgif.com-video-to-webp-converter.webp",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -479,6 +481,7 @@
         "item_mdXqaj": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ezgif.com-video-to-webp-converter-1.webp",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
