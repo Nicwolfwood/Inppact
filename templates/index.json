@@ -354,32 +354,40 @@
         "tab_X3imMd": {
           "type": "tab",
           "settings": {
-            "title": "Caractéristiques",
-            "content": "<p>Nos chaussures de sécurité sont conçues avec des matériaux haut de gamme ultra-résistants, une semelle intermédiaire renforcée Kevlar et des inserts mesh respirants. Cette combinaison assure une résistance maximale, un confort optimal et une protection fiable contre la perforation, l'humidité et la surchauffe – même lors de shifts de 12h.</p><p><strong>✓ Confort absolu grâce à la mousse à mémoire de forme</strong></p><p><strong>✓ Durabilité extrême avec des matériaux blindés</strong></p><p><strong>✓ Régulation thermique parfaite – zéro transpiration</strong></p><p><strong>✓ Sécurité à chaque pas – anti-perforation & embout acier renforcé</strong></p>",
+            "title": "Anwendungs und Pflegehinweise",
+            "content": "<p><strong>Für eine optimale Nutzung das Tuch langsam und gleichmäßig über die zu reinigende Oberfläche führen. Nach Gebrauch das Tuch gründlich auswringen und zum Trocknen aufhängen.</strong></p><p><strong>Anwendungsbereiche:</strong><br/>Im Badezimmer ideal für Duschwände, Waschbecken, Armaturen, Wasserhähne, Badewannen, Fliesen und Fugen - entfernt wirkungsvoll Kalk und Wasserrückstände und sorgt für klare Scheiben und Spiegel. Im Auto perfekt für die Reinigung von Lack und Scheiben.</p><p><strong>Hinweise:</strong><br/>Bitte immer die Herstellerempfehlungen für die betreffenden Oberflächen beachten. Nicht auf rauen oder scharfkantigen Oberflächen verwenden, um Schäden am Fasergewebe zu vermeiden.</p><p><strong>Pflegehinweise:</strong><br/>Waschbar bis maximal 60°C. Nicht trocknergeeignet und darf nicht gebügelt werden. Mit ähnlichen Farben waschen und nicht auf der Heizung trocknen, um Verfärbungen zu vermeiden.</p><p><strong>Zusätzlicher Tipp:</strong><br/>Mikrofasertücher am besten in einem Wäschesack waschen, ohne andere Textilien hinzuzufügen. Das schützt die Fasern und verhindert Fusselbildung.</p>",
             "page": ""
           }
         },
         "tab_QXytEe": {
           "type": "tab",
           "settings": {
-            "title": "Conformité & Certifications",
-            "content": "<p>Nos chaussures de sécurité S3 sont certifiées selon la norme européenne <strong>EN ISO 20345:2011</strong> et répondent aux exigences suivantes :</p><p><strong>- S3 :</strong> talon fermé, embout de protection, anti-perforation, semelle à crampons<br/><strong>- SRC :</strong> antidérapant testé sur sols en céramique et acier avec détergents et lubrifiants<br/><strong>- P :</strong> semelle intermédiaire anti-perforation (pénétration)<br/><strong>- FO :</strong> semelle résistante à l'huile et à l'essence<br/><strong>- DGUV 112-191 :</strong> compatible avec les semelles orthopédiques</p><p>Tous nos modèles sont certifiés par des organismes de contrôle indépendants et régulièrement vérifiés.</p>",
+            "title": "Produkteigenschaften",
+            "content": "<p>Das AURIS Mikrofaser-Tuch XXL wurde speziell für höchste Reinigungsleistung entwickelt. Die durchdachten Abmessungen und die hochwertige Materialzusammensetzung garantieren optimale Ergebnisse bei jeder Anwendung.</p><p><strong>ABMESSUNGEN:</strong><br/>40 x 40 cm</p><p><strong>MATERIALIEN:</strong><br/>Mikrofaser, Baumwolle</p>",
             "page": ""
           }
         },
         "tab_Jt9V4q": {
           "type": "tab",
           "settings": {
-            "title": "90 jours satisfait ou remboursé",
-            "content": "<p>Nous sommes convaincus de la qualité de nos produits et offrons donc <strong>90 jours satisfait ou remboursé</strong> sur tous nos articles.</p><p>Si vous n'êtes pas entièrement satisfait de votre produit pendant cette période, vous pouvez nous le retourner très simplement. Nous vous rembourserons intégralement, sans poser de questions.</p>",
+            "title": "30Tage zufrieden oder Geld zurück",
+            "content": "<p>Wir sind von der Qualität und Sicherheit Ihres AURIS Ohrenreinigers überzeugt. Deshalb bieten wir eine <strong>30-Tage-Geld-zurück-Garantie</strong>.</p><p><strong>Testen Sie es</strong>, und falls Sie nicht vollständig zufrieden sind, schreiben Sie uns - wir <strong>erstatten Ihnen den vollen Betrag zurück</strong>, ohne Fragen zu stellen.</p>",
             "page": ""
           }
         },
         "tab_gJfHWD": {
           "type": "tab",
           "settings": {
-            "title": "Service Client 7J/7",
-            "content": "<p>Notre service client est à votre écoute 7J/7.<br/></p><p>Vous pouvez nous contacter par en utilisant l'onglet \"Contact\" de notre boutique ou par email à l'adresse <strong>contact@try-nomad.com</strong></p>",
+            "title": "KOSTENLOSER Versand",
+            "content": "<p>Wir bieten Ihnen <strong>kostenlosen Versand</strong> für alle Ihre Bestellungen, egal wo Sie sich befinden.</p><p>Genießen Sie unsere hochwertigen Produkte ohne zusätzliche Kosten, direkt und sorgenfrei zu Ihnen nach Hause geliefert.</p>",
+            "page": ""
+          }
+        },
+        "tab_j8hEef": {
+          "type": "tab",
+          "settings": {
+            "title": "Kundenservice 7/7",
+            "content": "<p>Unser Kundenservice steht Ihnen 7 Tage die Woche zur Verfügung.</p><p>Sie können uns über den \"Kontakt\"-Bereich unseres Shops oder per E-Mail unter <a href=\"mailto:contact@tryauris.com\"><strong>contact@tryauris.com</strong></a> erreichen.</p>",
             "page": ""
           }
         }
@@ -388,7 +396,8 @@
         "tab_X3imMd",
         "tab_QXytEe",
         "tab_Jt9V4q",
-        "tab_gJfHWD"
+        "tab_gJfHWD",
+        "tab_j8hEef"
       ],
       "name": "Tabs",
       "settings": {
@@ -411,7 +420,7 @@
         "heading_mxnXKq": {
           "type": "heading",
           "settings": {
-            "text": "15,000+ pieds soulagés témoignent",
+            "text": "Geliebt von 17.958+ Kunden",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
@@ -496,7 +505,7 @@
         "heading_pUfUwy": {
           "type": "heading",
           "settings": {
-            "text": "Le style que tu adores, la protection que tu mérites",
+            "text": "Schnelle, effektive und einfache Reinigung",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
@@ -505,7 +514,7 @@
         "richtext_iFcftf": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Avec les Nomad S3 Pro, fini le choix entre confort, style et protection.<br/>Enfin des chaussures de sécurité que tu portes volontiers après le boulot.</p>"
+            "content": "<p>Bye bye, hartnäckige Kalkablagerungen! Verwandeln Sie Ihr Bad mit AURIS™ ultra-saugfähigen Mikrofasertüchern. <strong>Einfach, schnell und unglaublich effektiv</strong> - erleben Sie es selbst!</p>"
           }
         }
       },
@@ -526,9 +535,12 @@
     "media_grid_t7JqLj": {
       "type": "media-grid",
       "blocks": {
-        "image_RGMLtc": {
-          "type": "image",
+        "video_FMyGEx": {
+          "type": "video",
           "settings": {
+            "video": "shopify://files/videos/20842a4eb4cf4d5493514f554f4e538d.SD-480p-1.5Mbps-33379263 (1).mp4",
+            "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "show_video_controls": false,
             "title": "",
             "heading_tag": "h4",
             "link_url": "",
@@ -549,7 +561,7 @@
         }
       },
       "block_order": [
-        "image_RGMLtc"
+        "video_FMyGEx"
       ],
       "name": "Media grid",
       "settings": {
@@ -567,7 +579,7 @@
         "heading_VJywjj": {
           "type": "heading",
           "settings": {
-            "text": "Ajustement parfait en 5 secondes grâce au système rotatif Nomad™",
+            "text": "Spuren und Flecken gehören der Vergangenheit an",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
@@ -576,7 +588,7 @@
         "richtext_cXVaTF": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Système rotatif Nomad™ : ajustement parfait en 5 secondes. Fini les lacets qui lâchent.Plus besoin de te pencher, un simple geste et c'est parti.</p>"
+            "content": "<p>AURIS™ wurde entwickelt, um <strong>mühelos Fliesen, Glas, Armaturen und Spiegel zu trocknen</strong> - ganz ohne Spuren oder Rückstände. Für <strong>perfekten Glanz</strong> einfach nachpolieren.</p>"
           }
         }
       },
@@ -597,9 +609,12 @@
     "media_grid_Xdgk3m": {
       "type": "media-grid",
       "blocks": {
-        "image_VA3Epd": {
-          "type": "image",
+        "video_UgtCaq": {
+          "type": "video",
           "settings": {
+            "video": "shopify://files/videos/40d62b91add44a0199f5d447979b21cf.SD-480p-1.5Mbps-33379276 (1).mp4",
+            "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "show_video_controls": false,
             "title": "",
             "heading_tag": "h4",
             "link_url": "",
@@ -620,7 +635,7 @@
         }
       },
       "block_order": [
-        "image_VA3Epd"
+        "video_UgtCaq"
       ],
       "name": "Media grid",
       "settings": {
@@ -638,7 +653,7 @@
         "heading_qTNPjC": {
           "type": "heading",
           "settings": {
-            "text": "Protection maximale à chaque pas, conçu pour ton quotidien",
+            "text": "Was die Auris Mikrofaser auszeichnet",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
@@ -647,7 +662,7 @@
         "richtext_KwEkDP": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Look sneaker, protection blindée : embout acier + semelle Kevlar anti-perforation.<br/>Certification complète pour tous les environnements de travail. Zéro compromis.</p>"
+            "content": "<p>AURIS™ saugt bis zu 800ml Wasser in einem Zug auf, reinigt alle Oberflächen spurenfrei und ersetzt Wegwerfprodukte. Professionelle Effizienz, wiederverwendbar und umweltfreundlich.</p>"
           }
         }
       },
@@ -665,38 +680,15 @@
         "text_color": ""
       }
     },
-    "rich_text_Qn4G9a": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_z8KPdB": {
-          "type": "heading",
-          "settings": {
-            "text": "ICI TABLEAU",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_z8KPdB"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "media_grid_6MePXJ": {
       "type": "media-grid",
       "blocks": {
-        "image_HCtQW8": {
-          "type": "image",
+        "video_bCQCX7": {
+          "type": "video",
           "settings": {
+            "video": "shopify://files/videos/8ffd007f49114e5da55d72f96bee4cdb.SD-480p-1.5Mbps-33379332 (1).mp4",
+            "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "show_video_controls": false,
             "title": "",
             "heading_tag": "h4",
             "link_url": "",
@@ -717,7 +709,81 @@
         }
       },
       "block_order": [
-        "image_HCtQW8"
+        "video_bCQCX7"
+      ],
+      "name": "Media grid",
+      "settings": {
+        "full_width": true,
+        "reduce_width": false,
+        "desktop_row_height": 290,
+        "mobile_row_height": 150,
+        "background": "",
+        "background_gradient": ""
+      }
+    },
+    "rich_text_ajyyBR": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_WfP794": {
+          "type": "heading",
+          "settings": {
+            "text": "Werden Sie noch heute aktiv",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_VGixba": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Revolutionieren Sie Ihr Putzen mit AURIS™ - außergewöhnliche Saugkraft, vielseitig und langlebig. Bestellen Sie heute und erleben Sie den Unterschied!</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_WfP794",
+        "richtext_VGixba"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "media_grid_ym8VW4": {
+      "type": "media-grid",
+      "blocks": {
+        "video_imzDLb": {
+          "type": "video",
+          "settings": {
+            "video": "shopify://files/videos/46f23b97efdc411c8f93928bc822dc3a.SD-480p-1.5Mbps-33379432 (1).mp4",
+            "external_video_url": "",
+            "show_video_controls": false,
+            "title": "",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "video_imzDLb"
       ],
       "name": "Media grid",
       "settings": {
@@ -735,57 +801,36 @@
         "item_LQrNit": {
           "type": "item",
           "settings": {
-            "title": "Quelle taille choisir ?",
-            "content": "<p>Nos chaussures taillent normalement. Si tu hésites entre deux tailles, prends la plus grande. Se Référer au guide des tailles pour comparer avec la longueur de ton pied en cm.</p>"
+            "title": "Wie reinigt man das Auris Wundertuch ?",
+            "content": "<p><strong>• Nach dem Gebrauch:</strong> Das Tuch einfach sanft auswringen und zum Trocknen aufhängen</p><p><strong>• Maschinenpflege:</strong> Waschbar bis maximal 60°C, nicht trocknergeeignet und nicht bügeln. Es wird empfohlen, mit ähnlichen Farben zu waschen, vorzugsweise in einem Wäschesack, und nicht auf der Heizung zu trocknen, um Verfärbungen zu vermeiden.</p>"
           }
         },
         "item_y7ybUA": {
           "type": "item",
           "settings": {
-            "title": "Elles protègent vraiment même avec ce look basket ?",
-            "content": "<p>Absolument ! Les Nomad disposent d'un embout acier et d'une semelle intermédiaire Kevlar anti-perforation, elles respectent tous les standards de sécurité en vigueur pour le travail.</p>"
+            "title": "Behält es seine Wirksamkeit nach dem Waschen ?",
+            "content": "<p>Ja, absolut: robust und wiederverwendbar, behält es seine Leistung Wäsche nach Wäsche.</p>"
           }
         },
         "item_ccgbJa": {
           "type": "item",
           "settings": {
-            "title": "Elles tiennent le coup pour les longues journées debout ?",
-            "content": "<p>Totalement. Grâce à la <strong>semelle mousse à mémoire de forme</strong> et au design léger et flexible, elles sont parfaites pour les longues journées, les travaux de montage ou les déplacements sur sol dur.</p>"
+            "title": "Ist es wirksam für Fliesen und Scheiben ?",
+            "content": "<p>Ja! Die ultra-saugfähige Mikrofaser <strong>trocknet spurenfrei und kalkfrei</strong> - ideal für Duschwände, Spiegel, Fenster und Fliesen. <strong>Garantiert klare, glänzende Oberflächen</strong> ohne Streifen. Perfekt für alle glatten Oberflächen.</p>"
           }
         },
         "item_7cgrN3": {
           "type": "item",
           "settings": {
-            "title": "Sont-elles adaptées aux sols glissants ?",
-            "content": "<p>Absolument ! Elles sont équipées d'une semelle antidérapante haute performance testée sur différents types de sols (céramique, acier, surfaces mouillées). La certification SRC garantit une adhérence maximale même sur sols glissants avec présence d'huile, d'eau ou de produits de nettoyage.</p>"
+            "title": "Wie funktioniert die 30-Tage-Garantie ?",
+            "content": "<p>Falls Sie mit Ihrem Produkt nicht zufrieden sind, können Sie innerhalb von 30 Tagen nach Erhalt des Produkts eine Rückerstattung beantragen.</p>"
           }
         },
         "item_X3UN47": {
           "type": "item",
           "settings": {
-            "title": "Font-elles transpirer les pieds ?",
-            "content": "<p>Pas du tout ! Elles intègrent des panneaux respirants qui permettent une circulation d'air optimale. Associés à la semelle à mémoire de forme qui évacue l'humidité, tes pieds restent au sec même lors de journées intensives de 10h+. Fini les pieds qui macèrent dans des chaussures de sécurité fermées !</p>"
-          }
-        },
-        "item_ywhcD7": {
-          "type": "item",
-          "settings": {
-            "title": "Peut-on les laver facilement ?",
-            "content": "<p>Oui, très facilement ! Un simple coup d'éponge humide ou de chiffon suffit pour enlever la saleté du quotidien. Pour un nettoyage plus poussé, brosser délicatement avec de l'eau savonneuse. Évitez le lave-linge pour préserver les matériaux techniques et la durée de vie des chaussures.</p>"
-          }
-        },
-        "item_rUiyVQ": {
-          "type": "item",
-          "settings": {
-            "title": "Quels sont les frais de livraison ?",
-            "content": "<p>La livraison est entièrement gratuite ! Nous prenons les frais de port en charge.</p>"
-          }
-        },
-        "item_pmcGrU": {
-          "type": "item",
-          "settings": {
-            "title": "Puis-je retourner ma commande si je ne suis pas satisfait ?",
-            "content": "<p>Oui, tu peux retourner ta commande si tu n'es pas satisfait ! Nous offrons <strong>60 jours satisfait ou remboursé</strong>. Ça veut dire que tu peux tester nos produits pendant 60 jours, sans aucun risque. Pas convaincu ? Tu les renvoies simplement !</p>"
+            "title": "Ist die Online-Zahlung sicher ?",
+            "content": "<p>Ja, vollkommen sicher. Wir verwenden <strong>SSL 256-Bit-Verschlüsselung</strong> zum Schutz Ihrer Daten. Ihre Zahlungsinformationen sind zu 100% geschützt.</p>"
           }
         }
       },
@@ -794,10 +839,7 @@
         "item_y7ybUA",
         "item_ccgbJa",
         "item_7cgrN3",
-        "item_X3UN47",
-        "item_ywhcD7",
-        "item_rUiyVQ",
-        "item_pmcGrU"
+        "item_X3UN47"
       ],
       "name": "FAQ",
       "settings": {
@@ -839,8 +881,9 @@
     "rich_text_Me3nyy",
     "media_grid_Xdgk3m",
     "rich_text_Ndm4Df",
-    "rich_text_Qn4G9a",
     "media_grid_6MePXJ",
+    "rich_text_ajyyBR",
+    "media_grid_ym8VW4",
     "faq_xAnQHC"
   ]
 }
