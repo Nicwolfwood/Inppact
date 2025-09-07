@@ -17,28 +17,28 @@
         "message_MiLbtm": {
           "type": "message",
           "settings": {
-            "text": "OFFRE DE RENTRÉE -50%",
+            "text": "SCHULANFANG-ANGEBOT -50%",
             "url": ""
           }
         },
         "message_AEEAqb": {
           "type": "message",
           "settings": {
-            "text": "1 + 1 GRATUIT !",
+            "text": "2 + 1 GRATIS !",
             "url": ""
           }
         },
         "message_yLm7XN": {
           "type": "message",
           "settings": {
-            "text": "LIVRAISON OFFERTE",
+            "text": "KOSTENLOSER VERSAND",
             "url": ""
           }
         },
         "message_mXEV8D": {
           "type": "message",
           "settings": {
-            "text": "STOCK LIMITÉ !",
+            "text": "NUR SOLANGE VORRAT REICHT",
             "url": ""
           }
         }
