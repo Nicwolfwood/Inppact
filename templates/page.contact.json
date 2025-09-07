@@ -20,9 +20,9 @@
       "type": "contact",
       "settings": {
         "full_width": true,
-        "subheading": "Contactez- nous",
+        "subheading": "Kontaktieren Sie uns",
         "title": "",
-        "content": "<p>Nous sommes là pour vous aider ! Notre équipe est disponible et vous répondra dans les 12h : <strong>contact@movenomad.com</strong> ou <strong>via le formulaire!</strong></p>",
+        "content": "<p>Wir sind für Sie da! Unser Team ist verfügbar und antwortet Ihnen innerhalb von 12 Stunden: <a href=\"mailto:contact@tryauris.com\">contact@tryauris.com</a> oder über das Kontaktformular !</p>",
         "text_position": "start",
         "contact_form_size": "large",
         "background": "",
