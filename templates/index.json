@@ -178,8 +178,9 @@
         "item_xhTLzq": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/imgi_77_Lifestyle3.webp",
             "column_size": "3",
-            "title": "David A.",
+            "title": "Clara A.",
             "heading_tag": "h4",
             "content": "<p><em>\"Früher habe ich ewig geputzt und hatte trotzdem Streifen. Mit AURIS dauert es keine zwei Minuten und saugt wirklich alles auf.\"</em></p>",
             "link_url": "",
@@ -190,8 +191,9 @@
         "item_zF96GU": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/MICROFIBRE10.webp",
             "column_size": "3",
-            "title": "Steve W.",
+            "title": "Janice W.",
             "heading_tag": "h4",
             "content": "<p><em>\"Endlich weg der hartnäckige Kalk ohne teure Sprays. Das Tuch macht alles sauber und ich spare richtig Geld dabei.\"</em></p>",
             "link_url": "",
@@ -202,8 +204,9 @@
         "item_gyqymx": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/kmok.webp",
             "column_size": "3",
-            "title": "Arthur H.",
+            "title": "Eva H.",
             "heading_tag": "h4",
             "content": "<p><em>\"Perfekt nach dem Duschen - trocknet sofort und ich brauche keine Chemie mehr. Meine Kinder können gefahrlos helfen.\"</em></p>",
             "link_url": "",
@@ -214,8 +217,9 @@
         "item_EbMPJY": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/kmok-_2.webp",
             "column_size": "3",
-            "title": "Chris K.",
+            "title": "Anna K.",
             "heading_tag": "h4",
             "content": "<p><em>\"Mein Mann war skeptisch, aber jetzt putzt er freiwillig. Keine Streifen mehr und so schnell wie noch nie.\"</em></p>",
             "link_url": "",
@@ -227,7 +231,7 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Bastien M.",
+            "title": "Julia M.",
             "heading_tag": "h4",
             "content": "<p><em>\"800ml stimmt wirklich! Einmal wischen reicht für die ganze Dusche und nach Monaten noch wie neu.\"</em></p>",
             "link_url": "",
@@ -238,8 +242,9 @@
         "item_kgrUz8": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/imgi_78_Lifestyle1.webp",
             "column_size": "3",
-            "title": "Pierre F.",
+            "title": "Isabella F.",
             "heading_tag": "h4",
             "content": "<p><em>\"Zeit sparen, Geld sparen, keine Chemie - dieses Tuch hat mein Putzen revolutioniert. Kann ich nur empfehlen.\"</em></p>",
             "link_url": "",
