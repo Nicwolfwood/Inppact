@@ -227,6 +227,19 @@
             "link_style": "link"
           }
         },
+        "item_kgrUz8": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/kmok-_3.webp",
+            "column_size": "3",
+            "title": "Isabella F.",
+            "heading_tag": "h4",
+            "content": "<p><em>\"Zeit sparen, Geld sparen, keine Chemie - dieses Tuch hat mein Putzen revolutioniert. Kann ich nur empfehlen.\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_BLbtkx": {
           "type": "item",
           "settings": {
@@ -239,19 +252,6 @@
             "link_text": "",
             "link_style": "link"
           }
-        },
-        "item_kgrUz8": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/imgi_78_Lifestyle1.webp",
-            "column_size": "3",
-            "title": "Isabella F.",
-            "heading_tag": "h4",
-            "content": "<p><em>\"Zeit sparen, Geld sparen, keine Chemie - dieses Tuch hat mein Putzen revolutioniert. Kann ich nur empfehlen.\"</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
         }
       },
       "block_order": [
@@ -259,8 +259,8 @@
         "item_zF96GU",
         "item_gyqymx",
         "item_EbMPJY",
-        "item_BLbtkx",
-        "item_kgrUz8"
+        "item_kgrUz8",
+        "item_BLbtkx"
       ],
       "name": "Multi-column",
       "settings": {
